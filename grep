@@ -1,0 +1,3243 @@
+/proc/4512/fd
+
+/proc/net/tcp line_num:3
+/proc/net/udp line_num:6
+/proc/net/tcp6 line_num:2
+/proc/net/udp6 line_num:2
+read: /proc/2096/fd/.
+ 1783:
+ino: 0
+read: /proc/2096/fd/.
+ 1783:
+ino: 0
+read: /proc/2096/fd/0
+/dev/null000000000000000000000000000000:88BA
+ino: 0
+read: /proc/2096/fd/1
+socket:[22272]0000000000000000000000000:88BA
+ino: 22272
+read: /proc/2096/fd/2
+socket:[22272]0000000000000000000000000:88BA
+ino: 22272
+read: /proc/2096/fd/3
+socket:[20122]0000000000000000000000000:88BA
+ino: 20122
+read: /proc/2096/fd/4
+anon_inode:[eventpoll]00000000000000000:88BA
+ino: 20122
+read: /proc/2096/fd/5
+anon_inode:[signalfd]]00000000000000000:88BA
+ino: 20122
+read: /proc/2096/fd/6
+/sys/fs/cgroup/systemd/user.slic0000000:88BA
+ino: 20122
+read: /proc/2096/fd/7
+anon_inode:[timerfd]md/user.slic0000000:88BA
+ino: 20122
+read: /proc/2096/fd/8
+socket:[22292]merfd]md/user.slic0000000:88BA
+ino: 22292
+read: /proc/2096/fd/9
+anon_inode:[eventpoll]/user.slic0000000:88BA
+ino: 22292
+read: /proc/2096/fd/1
+socket:[22272]entpoll]/user.slic0000000:88BA
+ino: 22272
+read: /proc/2096/fd/1
+socket:[22272]entpoll]/user.slic0000000:88BA
+ino: 22272
+read: /proc/2096/fd/1
+socket:[22272]entpoll]/user.slic0000000:88BA
+ino: 22272
+read: /proc/2096/fd/1
+socket:[22272]entpoll]/user.slic0000000:88BA
+ino: 22272
+read: /proc/2096/fd/1
+socket:[22272]entpoll]/user.slic0000000:88BA
+ino: 22272
+read: /proc/2096/fd/1
+socket:[22272]entpoll]/user.slic0000000:88BA
+ino: 22272
+read: /proc/2129/fd/.
+socket:[22272]entpoll]/user.slic0000000:88BA
+ino: 22272
+read: /proc/2129/fd/.
+socket:[22272]entpoll]/user.slic0000000:88BA
+ino: 22272
+read: /proc/2129/fd/0
+/dev/null2272]entpoll]/user.slic0000000:88BA
+ino: 22272
+read: /proc/2129/fd/1
+/dev/null2272]entpoll]/user.slic0000000:88BA
+ino: 22272
+read: /proc/2129/fd/2
+/home/signal/.xsession-errorslic0000000:88BA
+ino: 22272
+read: /proc/2129/fd/3
+pipe:[22619]/.xsession-errorslic0000000:88BA
+ino: 22272
+read: /proc/2129/fd/4
+pipe:[22619]/.xsession-errorslic0000000:88BA
+ino: 22272
+read: /proc/2129/fd/5
+anon_inode:inotifysion-errorslic0000000:88BA
+ino: 22272
+read: /proc/2129/fd/6
+anon_inode:inotifysion-errorslic0000000:88BA
+ino: 22272
+read: /proc/2129/fd/7
+socket:[22620]tifysion-errorslic0000000:88BA
+ino: 22620
+read: /proc/2129/fd/8
+socket:[22621]tifysion-errorslic0000000:88BA
+ino: 22621
+read: /proc/2129/fd/9
+socket:[22636]tifysion-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/1
+/dev/null2636]tifysion-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/1
+/dev/null2636]tifysion-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/1
+/dev/null2636]tifysion-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/1
+/dev/null2636]tifysion-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/1
+/dev/null2636]tifysion-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/1
+/dev/null2636]tifysion-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/1
+/dev/null2636]tifysion-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/1
+/dev/null2636]tifysion-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/1
+/dev/null2636]tifysion-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/1
+/dev/null2636]tifysion-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/2
+/home/signal/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/2
+/home/signal/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/2
+/home/signal/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/2
+/home/signal/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/2
+/home/signal/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/2
+/home/signal/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/2
+/home/signal/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/2
+/home/signal/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/3
+pipe:[22619]/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/3
+pipe:[22619]/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/3
+pipe:[22619]/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/3
+pipe:[22619]/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/3
+pipe:[22619]/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/4
+pipe:[22619]/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/4
+pipe:[22619]/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2129/fd/4
+pipe:[22619]/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2144/fd/.
+pipe:[22619]/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2144/fd/.
+pipe:[22619]/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2144/fd/0
+/dev/null19]/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2144/fd/1
+/dev/null19]/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2144/fd/2
+/dev/null19]/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2146/fd/.
+/dev/null19]/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2146/fd/.
+/dev/null19]/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2146/fd/0
+/dev/null19]/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2146/fd/1
+/dev/null19]/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2146/fd/2
+/dev/null19]/.xsession-errorslic0000000:88BA
+ino: 22636
+read: /proc/2146/fd/3
+/home/signal/.vboxclient-clipboa0000000:88BA
+ino: 22636
+read: /proc/2146/fd/4
+/dev/vboxuser.vboxclient-clipboa0000000:88BA
+ino: 22636
+read: /proc/2146/fd/5
+socket:[22573]vboxclient-clipboa0000000:88BA
+ino: 22573
+read: /proc/2146/fd/6
+pipe:[20185]3]vboxclient-clipboa0000000:88BA
+ino: 22573
+read: /proc/2146/fd/7
+pipe:[20185]3]vboxclient-clipboa0000000:88BA
+ino: 22573
+read: /proc/2154/fd/.
+pipe:[20185]3]vboxclient-clipboa0000000:88BA
+ino: 22573
+read: /proc/2154/fd/.
+pipe:[20185]3]vboxclient-clipboa0000000:88BA
+ino: 22573
+read: /proc/2154/fd/0
+/dev/null85]3]vboxclient-clipboa0000000:88BA
+ino: 22573
+read: /proc/2154/fd/1
+/dev/null85]3]vboxclient-clipboa0000000:88BA
+ino: 22573
+read: /proc/2154/fd/2
+/dev/null85]3]vboxclient-clipboa0000000:88BA
+ino: 22573
+read: /proc/2156/fd/.
+/dev/null85]3]vboxclient-clipboa0000000:88BA
+ino: 22573
+read: /proc/2156/fd/.
+/dev/null85]3]vboxclient-clipboa0000000:88BA
+ino: 22573
+read: /proc/2156/fd/0
+/dev/null85]3]vboxclient-clipboa0000000:88BA
+ino: 22573
+read: /proc/2156/fd/1
+/dev/null85]3]vboxclient-clipboa0000000:88BA
+ino: 22573
+read: /proc/2156/fd/2
+/dev/null85]3]vboxclient-clipboa0000000:88BA
+ino: 22573
+read: /proc/2156/fd/3
+/home/signal/.vboxclient-display0000000:88BA
+ino: 22573
+read: /proc/2156/fd/4
+socket:[20167]vboxclient-display0000000:88BA
+ino: 20167
+read: /proc/2161/fd/.
+socket:[20167]vboxclient-display0000000:88BA
+ino: 20167
+read: /proc/2161/fd/.
+socket:[20167]vboxclient-display0000000:88BA
+ino: 20167
+read: /proc/2161/fd/0
+/dev/null0167]vboxclient-display0000000:88BA
+ino: 20167
+read: /proc/2161/fd/1
+/dev/null0167]vboxclient-display0000000:88BA
+ino: 20167
+read: /proc/2161/fd/2
+/dev/null0167]vboxclient-display0000000:88BA
+ino: 20167
+read: /proc/2163/fd/.
+/dev/null0167]vboxclient-display0000000:88BA
+ino: 20167
+read: /proc/2163/fd/.
+/dev/null0167]vboxclient-display0000000:88BA
+ino: 20167
+read: /proc/2163/fd/0
+/dev/null0167]vboxclient-display0000000:88BA
+ino: 20167
+read: /proc/2163/fd/1
+/dev/null0167]vboxclient-display0000000:88BA
+ino: 20167
+read: /proc/2163/fd/2
+/dev/null0167]vboxclient-display0000000:88BA
+ino: 20167
+read: /proc/2163/fd/3
+/home/signal/.vboxclient-seamles0000000:88BA
+ino: 20167
+read: /proc/2163/fd/4
+/dev/vboxuser.vboxclient-seamles0000000:88BA
+ino: 20167
+read: /proc/2163/fd/5
+socket:[20171]vboxclient-seamles0000000:88BA
+ino: 20171
+read: /proc/2168/fd/.
+socket:[20171]vboxclient-seamles0000000:88BA
+ino: 20171
+read: /proc/2168/fd/.
+socket:[20171]vboxclient-seamles0000000:88BA
+ino: 20171
+read: /proc/2168/fd/0
+/dev/null0171]vboxclient-seamles0000000:88BA
+ino: 20171
+read: /proc/2168/fd/1
+/dev/null0171]vboxclient-seamles0000000:88BA
+ino: 20171
+read: /proc/2168/fd/2
+/dev/null0171]vboxclient-seamles0000000:88BA
+ino: 20171
+read: /proc/2170/fd/.
+/dev/null0171]vboxclient-seamles0000000:88BA
+ino: 20171
+read: /proc/2170/fd/.
+/dev/null0171]vboxclient-seamles0000000:88BA
+ino: 20171
+read: /proc/2170/fd/0
+/dev/null0171]vboxclient-seamles0000000:88BA
+ino: 20171
+read: /proc/2170/fd/1
+/dev/null0171]vboxclient-seamles0000000:88BA
+ino: 20171
+read: /proc/2170/fd/2
+/dev/null0171]vboxclient-seamles0000000:88BA
+ino: 20171
+read: /proc/2170/fd/3
+/home/signal/.vboxclient-dragand0000000:88BA
+ino: 20171
+read: /proc/2170/fd/4
+/dev/vboxuser.vboxclient-dragand0000000:88BA
+ino: 20171
+read: /proc/2170/fd/5
+socket:[22394]vboxclient-dragand0000000:88BA
+ino: 22394
+read: /proc/2288/fd/.
+socket:[22394]vboxclient-dragand0000000:88BA
+ino: 22394
+read: /proc/2288/fd/.
+socket:[22394]vboxclient-dragand0000000:88BA
+ino: 22394
+read: /proc/2288/fd/0
+/dev/null2394]vboxclient-dragand0000000:88BA
+ino: 22394
+read: /proc/2288/fd/1
+/dev/null2394]vboxclient-dragand0000000:88BA
+ino: 22394
+read: /proc/2288/fd/2
+/dev/null2394]vboxclient-dragand0000000:88BA
+ino: 22394
+read: /proc/2288/fd/3
+socket:[22443]vboxclient-dragand0000000:88BA
+ino: 22443
+read: /proc/2288/fd/4
+pipe:[22444]3]vboxclient-dragand0000000:88BA
+ino: 22443
+read: /proc/2288/fd/5
+pipe:[22444]3]vboxclient-dragand0000000:88BA
+ino: 22443
+read: /proc/2288/fd/6
+socket:[22445]vboxclient-dragand0000000:88BA
+ino: 22445
+read: /proc/2295/fd/.
+socket:[22445]vboxclient-dragand0000000:88BA
+ino: 22445
+read: /proc/2295/fd/.
+socket:[22445]vboxclient-dragand0000000:88BA
+ino: 22445
+read: /proc/2295/fd/0
+/dev/null2445]vboxclient-dragand0000000:88BA
+ino: 22445
+read: /proc/2295/fd/1
+/dev/null2445]vboxclient-dragand0000000:88BA
+ino: 22445
+read: /proc/2295/fd/2
+/dev/pts/0445]vboxclient-dragand0000000:88BA
+ino: 22445
+read: /proc/2295/fd/3
+anon_inode:[eventpoll]nt-dragand0000000:88BA
+ino: 22445
+read: /proc/2295/fd/4
+socket:[22456]entpoll]nt-dragand0000000:88BA
+ino: 22456
+read: /proc/2295/fd/5
+anon_inode:inotifyoll]nt-dragand0000000:88BA
+ino: 22456
+read: /proc/2295/fd/6
+socket:[20247]tifyoll]nt-dragand0000000:88BA
+ino: 20247
+read: /proc/2295/fd/7
+socket:[20248]tifyoll]nt-dragand0000000:88BA
+ino: 20248
+read: /proc/2295/fd/8
+socket:[20250]tifyoll]nt-dragand0000000:88BA
+ino: 20250
+read: /proc/2295/fd/9
+socket:[22468]tifyoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/1
+/dev/null2468]tifyoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/1
+/dev/null2468]tifyoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/1
+/dev/null2468]tifyoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/1
+/dev/null2468]tifyoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/1
+/dev/null2468]tifyoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/1
+/dev/null2468]tifyoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/1
+/dev/null2468]tifyoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/1
+/dev/null2468]tifyoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/1
+/dev/null2468]tifyoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/1
+/dev/null2468]tifyoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/2
+/dev/pts/0468]tifyoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/2
+/dev/pts/0468]tifyoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/2
+/dev/pts/0468]tifyoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/2
+/dev/pts/0468]tifyoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/2
+/dev/pts/0468]tifyoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/2
+/dev/pts/0468]tifyoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/2
+/dev/pts/0468]tifyoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/2
+/dev/pts/0468]tifyoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/2
+/dev/pts/0468]tifyoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/2
+/dev/pts/0468]tifyoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/3
+anon_inode:[eventpoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/3
+anon_inode:[eventpoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/3
+anon_inode:[eventpoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/3
+anon_inode:[eventpoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/3
+anon_inode:[eventpoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/3
+anon_inode:[eventpoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/3
+anon_inode:[eventpoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/3
+anon_inode:[eventpoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/3
+anon_inode:[eventpoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/3
+anon_inode:[eventpoll]nt-dragand0000000:88BA
+ino: 22468
+read: /proc/2295/fd/4
+socket:[22456]entpoll]nt-dragand0000000:88BA
+ino: 22456
+read: /proc/2295/fd/4
+socket:[22456]entpoll]nt-dragand0000000:88BA
+ino: 22456
+read: /proc/2295/fd/4
+socket:[22456]entpoll]nt-dragand0000000:88BA
+ino: 22456
+read: /proc/2295/fd/4
+socket:[22456]entpoll]nt-dragand0000000:88BA
+ino: 22456
+read: /proc/2295/fd/4
+socket:[22456]entpoll]nt-dragand0000000:88BA
+ino: 22456
+read: /proc/2295/fd/4
+socket:[22456]entpoll]nt-dragand0000000:88BA
+ino: 22456
+read: /proc/2295/fd/4
+socket:[22456]entpoll]nt-dragand0000000:88BA
+ino: 22456
+read: /proc/2295/fd/4
+socket:[22456]entpoll]nt-dragand0000000:88BA
+ino: 22456
+read: /proc/2295/fd/4
+socket:[22456]entpoll]nt-dragand0000000:88BA
+ino: 22456
+read: /proc/2295/fd/4
+socket:[22456]entpoll]nt-dragand0000000:88BA
+ino: 22456
+read: /proc/2295/fd/5
+anon_inode:inotifyoll]nt-dragand0000000:88BA
+ino: 22456
+read: /proc/2295/fd/5
+anon_inode:inotifyoll]nt-dragand0000000:88BA
+ino: 22456
+read: /proc/2295/fd/5
+anon_inode:inotifyoll]nt-dragand0000000:88BA
+ino: 22456
+read: /proc/2295/fd/5
+anon_inode:inotifyoll]nt-dragand0000000:88BA
+ino: 22456
+read: /proc/2295/fd/5
+anon_inode:inotifyoll]nt-dragand0000000:88BA
+ino: 22456
+read: /proc/2295/fd/5
+anon_inode:inotifyoll]nt-dragand0000000:88BA
+ino: 22456
+read: /proc/2295/fd/5
+anon_inode:inotifyoll]nt-dragand0000000:88BA
+ino: 22456
+read: /proc/2295/fd/5
+anon_inode:inotifyoll]nt-dragand0000000:88BA
+ino: 22456
+read: /proc/2295/fd/5
+anon_inode:inotifyoll]nt-dragand0000000:88BA
+ino: 22456
+read: /proc/2295/fd/5
+anon_inode:inotifyoll]nt-dragand0000000:88BA
+ino: 22456
+read: /proc/2295/fd/6
+socket:[20247]tifyoll]nt-dragand0000000:88BA
+ino: 20247
+read: /proc/2295/fd/6
+socket:[20247]tifyoll]nt-dragand0000000:88BA
+ino: 20247
+read: /proc/2295/fd/6
+socket:[20247]tifyoll]nt-dragand0000000:88BA
+ino: 20247
+read: /proc/2295/fd/6
+socket:[20247]tifyoll]nt-dragand0000000:88BA
+ino: 20247
+read: /proc/2295/fd/6
+socket:[20247]tifyoll]nt-dragand0000000:88BA
+ino: 20247
+read: /proc/2295/fd/6
+socket:[20247]tifyoll]nt-dragand0000000:88BA
+ino: 20247
+read: /proc/2295/fd/6
+socket:[20247]tifyoll]nt-dragand0000000:88BA
+ino: 20247
+read: /proc/2307/fd/.
+socket:[20247]tifyoll]nt-dragand0000000:88BA
+ino: 20247
+read: /proc/2307/fd/.
+socket:[20247]tifyoll]nt-dragand0000000:88BA
+ino: 20247
+read: /proc/2307/fd/0
+/dev/null0247]tifyoll]nt-dragand0000000:88BA
+ino: 20247
+read: /proc/2307/fd/1
+/dev/pts/1047]tifyoll]nt-dragand0000000:88BA
+ino: 20247
+read: /proc/2307/fd/2
+/dev/pts/1047]tifyoll]nt-dragand0000000:88BA
+ino: 20247
+read: /proc/2307/fd/3
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 20247
+read: /proc/2307/fd/4
+socket:[22710]entfd]l]nt-dragand0000000:88BA
+ino: 22710
+read: /proc/2340/fd/.
+socket:[22710]entfd]l]nt-dragand0000000:88BA
+ino: 22710
+read: /proc/2340/fd/.
+socket:[22710]entfd]l]nt-dragand0000000:88BA
+ino: 22710
+read: /proc/2340/fd/0
+/dev/null2710]entfd]l]nt-dragand0000000:88BA
+ino: 22710
+read: /proc/2340/fd/1
+/dev/null2710]entfd]l]nt-dragand0000000:88BA
+ino: 22710
+read: /proc/2340/fd/2
+/dev/null2710]entfd]l]nt-dragand0000000:88BA
+ino: 22710
+read: /proc/2340/fd/3
+socket:[22676]entfd]l]nt-dragand0000000:88BA
+ino: 22676
+read: /proc/2340/fd/4
+pipe:[22677]6]entfd]l]nt-dragand0000000:88BA
+ino: 22676
+read: /proc/2340/fd/5
+pipe:[22677]6]entfd]l]nt-dragand0000000:88BA
+ino: 22676
+read: /proc/2340/fd/6
+anon_inode:inotifyd]l]nt-dragand0000000:88BA
+ino: 22676
+read: /proc/2340/fd/7
+anon_inode:inotifyd]l]nt-dragand0000000:88BA
+ino: 22676
+read: /proc/2340/fd/8
+anon_inode:inotifyd]l]nt-dragand0000000:88BA
+ino: 22676
+read: /proc/2343/fd/.
+anon_inode:inotifyd]l]nt-dragand0000000:88BA
+ino: 22676
+read: /proc/2343/fd/.
+anon_inode:inotifyd]l]nt-dragand0000000:88BA
+ino: 22676
+read: /proc/2343/fd/0
+/dev/nulle:inotifyd]l]nt-dragand0000000:88BA
+ino: 22676
+read: /proc/2343/fd/1
+/dev/nulle:inotifyd]l]nt-dragand0000000:88BA
+ino: 22676
+read: /proc/2343/fd/2
+/dev/nulle:inotifyd]l]nt-dragand0000000:88BA
+ino: 22676
+read: /proc/2343/fd/3
+socket:[22467]tifyd]l]nt-dragand0000000:88BA
+ino: 22467
+read: /proc/2343/fd/4
+pipe:[22680]7]tifyd]l]nt-dragand0000000:88BA
+ino: 22467
+read: /proc/2343/fd/5
+pipe:[22680]7]tifyd]l]nt-dragand0000000:88BA
+ino: 22467
+read: /proc/2343/fd/6
+socket:[22681]tifyd]l]nt-dragand0000000:88BA
+ino: 22681
+read: /proc/2346/fd/.
+socket:[22681]tifyd]l]nt-dragand0000000:88BA
+ino: 22681
+read: /proc/2346/fd/.
+socket:[22681]tifyd]l]nt-dragand0000000:88BA
+ino: 22681
+read: /proc/2346/fd/0
+/dev/null2681]tifyd]l]nt-dragand0000000:88BA
+ino: 22681
+read: /proc/2346/fd/1
+/dev/null2681]tifyd]l]nt-dragand0000000:88BA
+ino: 22681
+read: /proc/2346/fd/2
+/dev/null2681]tifyd]l]nt-dragand0000000:88BA
+ino: 22681
+read: /proc/2346/fd/3
+socket:[20259]tifyd]l]nt-dragand0000000:88BA
+ino: 20259
+read: /proc/2346/fd/4
+pipe:[20263]9]tifyd]l]nt-dragand0000000:88BA
+ino: 20259
+read: /proc/2346/fd/5
+pipe:[20263]9]tifyd]l]nt-dragand0000000:88BA
+ino: 20259
+read: /proc/2346/fd/6
+socket:[20264]tifyd]l]nt-dragand0000000:88BA
+ino: 20264
+read: /proc/2360/fd/.
+socket:[20264]tifyd]l]nt-dragand0000000:88BA
+ino: 20264
+read: /proc/2360/fd/.
+socket:[20264]tifyd]l]nt-dragand0000000:88BA
+ino: 20264
+read: /proc/2360/fd/0
+/dev/null0264]tifyd]l]nt-dragand0000000:88BA
+ino: 20264
+read: /proc/2360/fd/1
+/dev/null0264]tifyd]l]nt-dragand0000000:88BA
+ino: 20264
+read: /proc/2360/fd/2
+/dev/null0264]tifyd]l]nt-dragand0000000:88BA
+ino: 20264
+read: /proc/2360/fd/3
+anon_inode:inotifyd]l]nt-dragand0000000:88BA
+ino: 20264
+read: /proc/2360/fd/4
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 20264
+read: /proc/2360/fd/5
+socket:[22733]entfd]l]nt-dragand0000000:88BA
+ino: 22733
+read: /proc/2360/fd/6
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22733
+read: /proc/2360/fd/7
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22733
+read: /proc/2360/fd/8
+socket:[23562]entfd]l]nt-dragand0000000:88BA
+ino: 23562
+read: /proc/2360/fd/9
+socket:[23597]entfd]l]nt-dragand0000000:88BA
+ino: 23597
+read: /proc/2360/fd/1
+/dev/null3597]entfd]l]nt-dragand0000000:88BA
+ino: 23597
+read: /proc/2360/fd/1
+/dev/null3597]entfd]l]nt-dragand0000000:88BA
+ino: 23597
+read: /proc/2360/fd/1
+/dev/null3597]entfd]l]nt-dragand0000000:88BA
+ino: 23597
+read: /proc/2360/fd/1
+/dev/null3597]entfd]l]nt-dragand0000000:88BA
+ino: 23597
+read: /proc/2360/fd/1
+/dev/null3597]entfd]l]nt-dragand0000000:88BA
+ino: 23597
+read: /proc/2360/fd/1
+/dev/null3597]entfd]l]nt-dragand0000000:88BA
+ino: 23597
+read: /proc/2360/fd/1
+/dev/null3597]entfd]l]nt-dragand0000000:88BA
+ino: 23597
+read: /proc/2360/fd/1
+/dev/null3597]entfd]l]nt-dragand0000000:88BA
+ino: 23597
+read: /proc/2362/fd/.
+/dev/null3597]entfd]l]nt-dragand0000000:88BA
+ino: 23597
+read: /proc/2362/fd/.
+/dev/null3597]entfd]l]nt-dragand0000000:88BA
+ino: 23597
+read: /proc/2362/fd/0
+/dev/null3597]entfd]l]nt-dragand0000000:88BA
+ino: 23597
+read: /proc/2362/fd/1
+/dev/pts/2597]entfd]l]nt-dragand0000000:88BA
+ino: 23597
+read: /proc/2362/fd/2
+/dev/pts/2597]entfd]l]nt-dragand0000000:88BA
+ino: 23597
+read: /proc/2362/fd/3
+socket:[20317]entfd]l]nt-dragand0000000:88BA
+ino: 20317
+read: /proc/2362/fd/4
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 20317
+read: /proc/2362/fd/5
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 20317
+read: /proc/2362/fd/6
+socket:[20344]entfd]l]nt-dragand0000000:88BA
+ino: 20344
+read: /proc/2362/fd/7
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 20344
+read: /proc/2362/fd/8
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 20344
+read: /proc/2362/fd/9
+socket:[20359]entfd]l]nt-dragand0000000:88BA
+ino: 20359
+read: /proc/2362/fd/1
+/dev/pts/2359]entfd]l]nt-dragand0000000:88BA
+ino: 20359
+read: /proc/2362/fd/1
+/dev/pts/2359]entfd]l]nt-dragand0000000:88BA
+ino: 20359
+read: /proc/2362/fd/1
+/dev/pts/2359]entfd]l]nt-dragand0000000:88BA
+ino: 20359
+read: /proc/2371/fd/.
+/dev/pts/2359]entfd]l]nt-dragand0000000:88BA
+ino: 20359
+read: /proc/2371/fd/.
+/dev/pts/2359]entfd]l]nt-dragand0000000:88BA
+ino: 20359
+read: /proc/2371/fd/0
+/dev/null2359]entfd]l]nt-dragand0000000:88BA
+ino: 20359
+read: /proc/2371/fd/1
+socket:[22516]entfd]l]nt-dragand0000000:88BA
+ino: 22516
+read: /proc/2371/fd/2
+socket:[22517]entfd]l]nt-dragand0000000:88BA
+ino: 22517
+read: /proc/2371/fd/3
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22517
+read: /proc/2371/fd/4
+socket:[22518]entfd]l]nt-dragand0000000:88BA
+ino: 22518
+read: /proc/2371/fd/5
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22518
+read: /proc/2371/fd/6
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22518
+read: /proc/2371/fd/7
+pipe:[22522]eventfd]l]nt-dragand0000000:88BA
+ino: 22518
+read: /proc/2371/fd/8
+pipe:[22522]eventfd]l]nt-dragand0000000:88BA
+ino: 22518
+read: /proc/2376/fd/.
+pipe:[22522]eventfd]l]nt-dragand0000000:88BA
+ino: 22518
+read: /proc/2376/fd/.
+pipe:[22522]eventfd]l]nt-dragand0000000:88BA
+ino: 22518
+read: /proc/2376/fd/0
+/dev/null22]eventfd]l]nt-dragand0000000:88BA
+ino: 22518
+read: /proc/2376/fd/1
+/dev/null22]eventfd]l]nt-dragand0000000:88BA
+ino: 22518
+read: /proc/2376/fd/2
+/dev/null22]eventfd]l]nt-dragand0000000:88BA
+ino: 22518
+read: /proc/2376/fd/3
+/dev/fuse22]eventfd]l]nt-dragand0000000:88BA
+ino: 22518
+read: /proc/2376/fd/4
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22518
+read: /proc/2376/fd/5
+socket:[22749]entfd]l]nt-dragand0000000:88BA
+ino: 22749
+read: /proc/2376/fd/6
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22749
+read: /proc/2376/fd/7
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22749
+read: /proc/2381/fd/.
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22749
+read: /proc/2381/fd/.
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22749
+read: /proc/2381/fd/0
+/dev/nulle:[eventfd]l]nt-dragand0000000:88BA
+ino: 22749
+read: /proc/2381/fd/1
+/dev/nulle:[eventfd]l]nt-dragand0000000:88BA
+ino: 22749
+read: /proc/2381/fd/2
+/dev/nulle:[eventfd]l]nt-dragand0000000:88BA
+ino: 22749
+read: /proc/2381/fd/3
+anon_inode:inotifyd]l]nt-dragand0000000:88BA
+ino: 22749
+read: /proc/2381/fd/4
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22749
+read: /proc/2381/fd/5
+socket:[20318]entfd]l]nt-dragand0000000:88BA
+ino: 20318
+read: /proc/2381/fd/6
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 20318
+read: /proc/2381/fd/7
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 20318
+read: /proc/2381/fd/8
+socket:[20332]entfd]l]nt-dragand0000000:88BA
+ino: 20332
+read: /proc/2381/fd/9
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 20332
+read: /proc/2381/fd/1
+/dev/nulle:[eventfd]l]nt-dragand0000000:88BA
+ino: 20332
+read: /proc/2386/fd/.
+/dev/nulle:[eventfd]l]nt-dragand0000000:88BA
+ino: 20332
+read: /proc/2386/fd/.
+/dev/nulle:[eventfd]l]nt-dragand0000000:88BA
+ino: 20332
+read: /proc/2386/fd/0
+/dev/nulle:[eventfd]l]nt-dragand0000000:88BA
+ino: 20332
+read: /proc/2386/fd/1
+/dev/nulle:[eventfd]l]nt-dragand0000000:88BA
+ino: 20332
+read: /proc/2386/fd/2
+/dev/nulle:[eventfd]l]nt-dragand0000000:88BA
+ino: 20332
+read: /proc/2386/fd/3
+socket:[20335]entfd]l]nt-dragand0000000:88BA
+ino: 20335
+read: /proc/2386/fd/4
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 20335
+read: /proc/2386/fd/5
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 20335
+read: /proc/2386/fd/6
+socket:[20343]entfd]l]nt-dragand0000000:88BA
+ino: 20343
+read: /proc/2386/fd/7
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 20343
+read: /proc/2386/fd/8
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 20343
+read: /proc/2386/fd/9
+socket:[20356]entfd]l]nt-dragand0000000:88BA
+ino: 20356
+read: /proc/2386/fd/1
+/dev/null0356]entfd]l]nt-dragand0000000:88BA
+ino: 20356
+read: /proc/2386/fd/1
+/dev/null0356]entfd]l]nt-dragand0000000:88BA
+ino: 20356
+read: /proc/2386/fd/1
+/dev/null0356]entfd]l]nt-dragand0000000:88BA
+ino: 20356
+read: /proc/2386/fd/1
+/dev/null0356]entfd]l]nt-dragand0000000:88BA
+ino: 20356
+read: /proc/2391/fd/.
+/dev/null0356]entfd]l]nt-dragand0000000:88BA
+ino: 20356
+read: /proc/2391/fd/.
+/dev/null0356]entfd]l]nt-dragand0000000:88BA
+ino: 20356
+read: /proc/2391/fd/0
+/dev/null0356]entfd]l]nt-dragand0000000:88BA
+ino: 20356
+read: /proc/2391/fd/1
+/dev/null0356]entfd]l]nt-dragand0000000:88BA
+ino: 20356
+read: /proc/2391/fd/2
+/dev/null0356]entfd]l]nt-dragand0000000:88BA
+ino: 20356
+read: /proc/2391/fd/3
+socket:[23598]entfd]l]nt-dragand0000000:88BA
+ino: 23598
+read: /proc/2391/fd/4
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23598
+read: /proc/2391/fd/5
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23598
+read: /proc/2391/fd/6
+socket:[23600]entfd]l]nt-dragand0000000:88BA
+ino: 23600
+read: /proc/2391/fd/7
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23600
+read: /proc/2391/fd/8
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23600
+read: /proc/2391/fd/9
+socket:[20370]entfd]l]nt-dragand0000000:88BA
+ino: 20370
+read: /proc/2391/fd/1
+/dev/null0370]entfd]l]nt-dragand0000000:88BA
+ino: 20370
+read: /proc/2391/fd/1
+/dev/null0370]entfd]l]nt-dragand0000000:88BA
+ino: 20370
+read: /proc/2391/fd/1
+/dev/null0370]entfd]l]nt-dragand0000000:88BA
+ino: 20370
+read: /proc/2391/fd/1
+/dev/null0370]entfd]l]nt-dragand0000000:88BA
+ino: 20370
+read: /proc/2422/fd/.
+/dev/null0370]entfd]l]nt-dragand0000000:88BA
+ino: 20370
+read: /proc/2422/fd/.
+/dev/null0370]entfd]l]nt-dragand0000000:88BA
+ino: 20370
+read: /proc/2422/fd/0
+/dev/null0370]entfd]l]nt-dragand0000000:88BA
+ino: 20370
+read: /proc/2422/fd/1
+socket:[23606]entfd]l]nt-dragand0000000:88BA
+ino: 23606
+read: /proc/2422/fd/2
+socket:[23607]entfd]l]nt-dragand0000000:88BA
+ino: 23607
+read: /proc/2422/fd/3
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23607
+read: /proc/2422/fd/4
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23607
+read: /proc/2422/fd/5
+socket:[23609]entfd]l]nt-dragand0000000:88BA
+ino: 23609
+read: /proc/2422/fd/6
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23609
+read: /proc/2422/fd/7
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23609
+read: /proc/2422/fd/8
+pipe:[23610]eventfd]l]nt-dragand0000000:88BA
+ino: 23609
+read: /proc/2422/fd/9
+pipe:[23610]eventfd]l]nt-dragand0000000:88BA
+ino: 23609
+read: /proc/2435/fd/.
+pipe:[23610]eventfd]l]nt-dragand0000000:88BA
+ino: 23609
+read: /proc/2435/fd/.
+pipe:[23610]eventfd]l]nt-dragand0000000:88BA
+ino: 23609
+read: /proc/2435/fd/0
+/dev/null10]eventfd]l]nt-dragand0000000:88BA
+ino: 23609
+read: /proc/2435/fd/1
+socket:[23606]entfd]l]nt-dragand0000000:88BA
+ino: 23606
+read: /proc/2435/fd/2
+socket:[23607]entfd]l]nt-dragand0000000:88BA
+ino: 23607
+read: /proc/2435/fd/3
+anon_inode:inotifyd]l]nt-dragand0000000:88BA
+ino: 23607
+read: /proc/2435/fd/4
+anon_inode:[eventpoll]nt-dragand0000000:88BA
+ino: 23607
+read: /proc/2435/fd/5
+socket:[23618]entpoll]nt-dragand0000000:88BA
+ino: 23618
+read: /proc/2435/fd/6
+socket:[23623]entpoll]nt-dragand0000000:88BA
+ino: 23623
+read: /proc/2435/fd/7
+socket:[23624]entpoll]nt-dragand0000000:88BA
+ino: 23624
+read: /proc/2435/fd/8
+socket:[23625]entpoll]nt-dragand0000000:88BA
+ino: 23625
+read: /proc/2435/fd/9
+socket:[23626]entpoll]nt-dragand0000000:88BA
+ino: 23626
+read: /proc/2435/fd/1
+socket:[23606]entpoll]nt-dragand0000000:88BA
+ino: 23606
+read: /proc/2435/fd/1
+socket:[23606]entpoll]nt-dragand0000000:88BA
+ino: 23606
+read: /proc/2435/fd/1
+socket:[23606]entpoll]nt-dragand0000000:88BA
+ino: 23606
+read: /proc/2435/fd/1
+socket:[23606]entpoll]nt-dragand0000000:88BA
+ino: 23606
+read: /proc/2435/fd/1
+socket:[23606]entpoll]nt-dragand0000000:88BA
+ino: 23606
+read: /proc/2435/fd/1
+socket:[23606]entpoll]nt-dragand0000000:88BA
+ino: 23606
+read: /proc/2435/fd/1
+socket:[23606]entpoll]nt-dragand0000000:88BA
+ino: 23606
+read: /proc/2435/fd/1
+socket:[23606]entpoll]nt-dragand0000000:88BA
+ino: 23606
+read: /proc/2435/fd/1
+socket:[23606]entpoll]nt-dragand0000000:88BA
+ino: 23606
+read: /proc/2435/fd/1
+socket:[23606]entpoll]nt-dragand0000000:88BA
+ino: 23606
+read: /proc/2435/fd/2
+socket:[23607]entpoll]nt-dragand0000000:88BA
+ino: 23607
+read: /proc/2435/fd/2
+socket:[23607]entpoll]nt-dragand0000000:88BA
+ino: 23607
+read: /proc/2435/fd/2
+socket:[23607]entpoll]nt-dragand0000000:88BA
+ino: 23607
+read: /proc/2435/fd/2
+socket:[23607]entpoll]nt-dragand0000000:88BA
+ino: 23607
+read: /proc/2435/fd/2
+socket:[23607]entpoll]nt-dragand0000000:88BA
+ino: 23607
+read: /proc/2441/fd/.
+socket:[23607]entpoll]nt-dragand0000000:88BA
+ino: 23607
+read: /proc/2441/fd/.
+socket:[23607]entpoll]nt-dragand0000000:88BA
+ino: 23607
+read: /proc/2441/fd/0
+/dev/null3607]entpoll]nt-dragand0000000:88BA
+ino: 23607
+read: /proc/2441/fd/1
+socket:[23631]entpoll]nt-dragand0000000:88BA
+ino: 23631
+read: /proc/2441/fd/2
+socket:[23632]entpoll]nt-dragand0000000:88BA
+ino: 23632
+read: /proc/2441/fd/3
+socket:[23638]entpoll]nt-dragand0000000:88BA
+ino: 23638
+read: /proc/2441/fd/4
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23638
+read: /proc/2441/fd/5
+socket:[23641]entfd]l]nt-dragand0000000:88BA
+ino: 23641
+read: /proc/2441/fd/6
+socket:[23642]entfd]l]nt-dragand0000000:88BA
+ino: 23642
+read: /proc/2441/fd/7
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23642
+read: /proc/2441/fd/8
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23642
+read: /proc/2470/fd/.
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23642
+read: /proc/2470/fd/.
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23642
+read: /proc/2470/fd/0
+/dev/nulle:[eventfd]l]nt-dragand0000000:88BA
+ino: 23642
+read: /proc/2470/fd/1
+/dev/nulle:[eventfd]l]nt-dragand0000000:88BA
+ino: 23642
+read: /proc/2470/fd/2
+/dev/nulle:[eventfd]l]nt-dragand0000000:88BA
+ino: 23642
+read: /proc/2470/fd/3
+anon_inode:inotifyd]l]nt-dragand0000000:88BA
+ino: 23642
+read: /proc/2470/fd/4
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23642
+read: /proc/2470/fd/5
+socket:[22794]entfd]l]nt-dragand0000000:88BA
+ino: 22794
+read: /proc/2470/fd/6
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22794
+read: /proc/2470/fd/7
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22794
+read: /proc/2470/fd/8
+socket:[20458]entfd]l]nt-dragand0000000:88BA
+ino: 20458
+read: /proc/2485/fd/.
+socket:[20458]entfd]l]nt-dragand0000000:88BA
+ino: 20458
+read: /proc/2485/fd/.
+socket:[20458]entfd]l]nt-dragand0000000:88BA
+ino: 20458
+read: /proc/2485/fd/0
+/dev/null0458]entfd]l]nt-dragand0000000:88BA
+ino: 20458
+read: /proc/2485/fd/1
+/dev/pts/3458]entfd]l]nt-dragand0000000:88BA
+ino: 20458
+read: /proc/2485/fd/2
+/dev/pts/3458]entfd]l]nt-dragand0000000:88BA
+ino: 20458
+read: /proc/2485/fd/3
+socket:[24598]entfd]l]nt-dragand0000000:88BA
+ino: 24598
+read: /proc/2485/fd/4
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 24598
+read: /proc/2485/fd/5
+socket:[22937]entfd]l]nt-dragand0000000:88BA
+ino: 22937
+read: /proc/2485/fd/6
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22937
+read: /proc/2485/fd/7
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22937
+read: /proc/2485/fd/8
+socket:[22938]entfd]l]nt-dragand0000000:88BA
+ino: 22938
+read: /proc/2485/fd/9
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22938
+read: /proc/2485/fd/1
+/dev/pts/3:[eventfd]l]nt-dragand0000000:88BA
+ino: 22938
+read: /proc/2485/fd/1
+/dev/pts/3:[eventfd]l]nt-dragand0000000:88BA
+ino: 22938
+read: /proc/2485/fd/1
+/dev/pts/3:[eventfd]l]nt-dragand0000000:88BA
+ino: 22938
+read: /proc/2485/fd/1
+/dev/pts/3:[eventfd]l]nt-dragand0000000:88BA
+ino: 22938
+read: /proc/2485/fd/1
+/dev/pts/3:[eventfd]l]nt-dragand0000000:88BA
+ino: 22938
+read: /proc/2485/fd/1
+/dev/pts/3:[eventfd]l]nt-dragand0000000:88BA
+ino: 22938
+read: /proc/2485/fd/1
+/dev/pts/3:[eventfd]l]nt-dragand0000000:88BA
+ino: 22938
+read: /proc/2485/fd/1
+/dev/pts/3:[eventfd]l]nt-dragand0000000:88BA
+ino: 22938
+read: /proc/2487/fd/.
+/dev/pts/3:[eventfd]l]nt-dragand0000000:88BA
+ino: 22938
+read: /proc/2487/fd/.
+/dev/pts/3:[eventfd]l]nt-dragand0000000:88BA
+ino: 22938
+read: /proc/2487/fd/0
+/dev/null3:[eventfd]l]nt-dragand0000000:88BA
+ino: 22938
+read: /proc/2487/fd/1
+/dev/pts/6:[eventfd]l]nt-dragand0000000:88BA
+ino: 22938
+read: /proc/2487/fd/2
+/dev/pts/6:[eventfd]l]nt-dragand0000000:88BA
+ino: 22938
+read: /proc/2487/fd/3
+socket:[20469]entfd]l]nt-dragand0000000:88BA
+ino: 20469
+read: /proc/2487/fd/4
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 20469
+read: /proc/2487/fd/5
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 20469
+read: /proc/2487/fd/6
+socket:[20476]entfd]l]nt-dragand0000000:88BA
+ino: 20476
+read: /proc/2487/fd/7
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 20476
+read: /proc/2487/fd/8
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 20476
+read: /proc/2487/fd/9
+socket:[20479]entfd]l]nt-dragand0000000:88BA
+ino: 20479
+read: /proc/2487/fd/1
+/dev/pts/6479]entfd]l]nt-dragand0000000:88BA
+ino: 20479
+read: /proc/2487/fd/1
+/dev/pts/6479]entfd]l]nt-dragand0000000:88BA
+ino: 20479
+read: /proc/2487/fd/1
+/dev/pts/6479]entfd]l]nt-dragand0000000:88BA
+ino: 20479
+read: /proc/2487/fd/1
+/dev/pts/6479]entfd]l]nt-dragand0000000:88BA
+ino: 20479
+read: /proc/2487/fd/1
+/dev/pts/6479]entfd]l]nt-dragand0000000:88BA
+ino: 20479
+read: /proc/2487/fd/1
+/dev/pts/6479]entfd]l]nt-dragand0000000:88BA
+ino: 20479
+read: /proc/2487/fd/1
+/dev/pts/6479]entfd]l]nt-dragand0000000:88BA
+ino: 20479
+read: /proc/2487/fd/1
+/dev/pts/6479]entfd]l]nt-dragand0000000:88BA
+ino: 20479
+read: /proc/2487/fd/1
+/dev/pts/6479]entfd]l]nt-dragand0000000:88BA
+ino: 20479
+read: /proc/2487/fd/1
+/dev/pts/6479]entfd]l]nt-dragand0000000:88BA
+ino: 20479
+read: /proc/2487/fd/2
+/dev/pts/6479]entfd]l]nt-dragand0000000:88BA
+ino: 20479
+read: /proc/2487/fd/2
+/dev/pts/6479]entfd]l]nt-dragand0000000:88BA
+ino: 20479
+read: /proc/2487/fd/2
+/dev/pts/6479]entfd]l]nt-dragand0000000:88BA
+ino: 20479
+read: /proc/2487/fd/2
+/dev/pts/6479]entfd]l]nt-dragand0000000:88BA
+ino: 20479
+read: /proc/2487/fd/2
+/dev/pts/6479]entfd]l]nt-dragand0000000:88BA
+ino: 20479
+read: /proc/2498/fd/.
+/dev/pts/6479]entfd]l]nt-dragand0000000:88BA
+ino: 20479
+read: /proc/2498/fd/.
+/dev/pts/6479]entfd]l]nt-dragand0000000:88BA
+ino: 20479
+read: /proc/2498/fd/0
+/dev/null6479]entfd]l]nt-dragand0000000:88BA
+ino: 20479
+read: /proc/2498/fd/1
+socket:[23707]entfd]l]nt-dragand0000000:88BA
+ino: 23707
+read: /proc/2498/fd/2
+socket:[23707]entfd]l]nt-dragand0000000:88BA
+ino: 23707
+read: /proc/2498/fd/3
+socket:[23707]entfd]l]nt-dragand0000000:88BA
+ino: 23707
+read: /proc/2498/fd/4
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23707
+read: /proc/2498/fd/5
+socket:[24592]entfd]l]nt-dragand0000000:88BA
+ino: 24592
+read: /proc/2498/fd/6
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 24592
+read: /proc/2498/fd/7
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 24592
+read: /proc/2498/fd/8
+socket:[23802]entfd]l]nt-dragand0000000:88BA
+ino: 23802
+read: /proc/2498/fd/9
+anon_inode:inotifyd]l]nt-dragand0000000:88BA
+ino: 23802
+read: /proc/2498/fd/1
+socket:[23707]tifyd]l]nt-dragand0000000:88BA
+ino: 23707
+read: /proc/2498/fd/1
+socket:[23707]tifyd]l]nt-dragand0000000:88BA
+ino: 23707
+read: /proc/2498/fd/1
+socket:[23707]tifyd]l]nt-dragand0000000:88BA
+ino: 23707
+read: /proc/2498/fd/1
+socket:[23707]tifyd]l]nt-dragand0000000:88BA
+ino: 23707
+read: /proc/2498/fd/1
+socket:[23707]tifyd]l]nt-dragand0000000:88BA
+ino: 23707
+read: /proc/2507/fd/.
+socket:[23707]tifyd]l]nt-dragand0000000:88BA
+ino: 23707
+read: /proc/2507/fd/.
+socket:[23707]tifyd]l]nt-dragand0000000:88BA
+ino: 23707
+read: /proc/2507/fd/0
+/dev/null3707]tifyd]l]nt-dragand0000000:88BA
+ino: 23707
+read: /proc/2507/fd/1
+/dev/pts/5707]tifyd]l]nt-dragand0000000:88BA
+ino: 23707
+read: /proc/2507/fd/2
+/dev/pts/5707]tifyd]l]nt-dragand0000000:88BA
+ino: 23707
+read: /proc/2507/fd/3
+socket:[23685]tifyd]l]nt-dragand0000000:88BA
+ino: 23685
+read: /proc/2507/fd/4
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23685
+read: /proc/2507/fd/5
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23685
+read: /proc/2507/fd/6
+socket:[23686]entfd]l]nt-dragand0000000:88BA
+ino: 23686
+read: /proc/2507/fd/7
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23686
+read: /proc/2507/fd/8
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23686
+read: /proc/2507/fd/9
+socket:[22953]entfd]l]nt-dragand0000000:88BA
+ino: 22953
+read: /proc/2507/fd/1
+/dev/pts/5953]entfd]l]nt-dragand0000000:88BA
+ino: 22953
+read: /proc/2571/fd/.
+/dev/pts/5953]entfd]l]nt-dragand0000000:88BA
+ino: 22953
+read: /proc/2571/fd/.
+/dev/pts/5953]entfd]l]nt-dragand0000000:88BA
+ino: 22953
+read: /proc/2571/fd/0
+/dev/null5953]entfd]l]nt-dragand0000000:88BA
+ino: 22953
+read: /proc/2571/fd/1
+/dev/pts/8953]entfd]l]nt-dragand0000000:88BA
+ino: 22953
+read: /proc/2571/fd/2
+/dev/pts/8953]entfd]l]nt-dragand0000000:88BA
+ino: 22953
+read: /proc/2571/fd/3
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22953
+read: /proc/2571/fd/4
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22953
+read: /proc/2571/fd/5
+socket:[22966]entfd]l]nt-dragand0000000:88BA
+ino: 22966
+read: /proc/2571/fd/6
+socket:[22968]entfd]l]nt-dragand0000000:88BA
+ino: 22968
+read: /proc/2571/fd/7
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22968
+read: /proc/2571/fd/8
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22968
+read: /proc/2571/fd/9
+anon_inode:inotifyd]l]nt-dragand0000000:88BA
+ino: 22968
+read: /proc/2573/fd/.
+anon_inode:inotifyd]l]nt-dragand0000000:88BA
+ino: 22968
+read: /proc/2573/fd/.
+anon_inode:inotifyd]l]nt-dragand0000000:88BA
+ino: 22968
+read: /proc/2573/fd/0
+/dev/nulle:inotifyd]l]nt-dragand0000000:88BA
+ino: 22968
+read: /proc/2573/fd/1
+/dev/pts/9:inotifyd]l]nt-dragand0000000:88BA
+ino: 22968
+read: /proc/2573/fd/2
+/dev/pts/9:inotifyd]l]nt-dragand0000000:88BA
+ino: 22968
+read: /proc/2573/fd/3
+/dev/rfkillinotifyd]l]nt-dragand0000000:88BA
+ino: 22968
+read: /proc/2573/fd/4
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22968
+read: /proc/2573/fd/5
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22968
+read: /proc/2573/fd/6
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22968
+read: /proc/2573/fd/7
+socket:[23758]entfd]l]nt-dragand0000000:88BA
+ino: 23758
+read: /proc/2573/fd/8
+socket:[23759]entfd]l]nt-dragand0000000:88BA
+ino: 23759
+read: /proc/2573/fd/9
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23759
+read: /proc/2575/fd/.
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23759
+read: /proc/2575/fd/.
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23759
+read: /proc/2575/fd/0
+/dev/nulle:[eventfd]l]nt-dragand0000000:88BA
+ino: 23759
+read: /proc/2575/fd/1
+/dev/pts/11[eventfd]l]nt-dragand0000000:88BA
+ino: 23759
+read: /proc/2575/fd/2
+/dev/pts/11[eventfd]l]nt-dragand0000000:88BA
+ino: 23759
+read: /proc/2575/fd/3
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23759
+read: /proc/2575/fd/4
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23759
+read: /proc/2575/fd/5
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23759
+read: /proc/2575/fd/6
+socket:[23014]entfd]l]nt-dragand0000000:88BA
+ino: 23014
+read: /proc/2575/fd/7
+socket:[23776]entfd]l]nt-dragand0000000:88BA
+ino: 23776
+read: /proc/2575/fd/8
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23776
+read: /proc/2576/fd/.
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23776
+read: /proc/2576/fd/.
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23776
+read: /proc/2576/fd/0
+/dev/nulle:[eventfd]l]nt-dragand0000000:88BA
+ino: 23776
+read: /proc/2576/fd/1
+/dev/pts/12[eventfd]l]nt-dragand0000000:88BA
+ino: 23776
+read: /proc/2576/fd/2
+/dev/pts/12[eventfd]l]nt-dragand0000000:88BA
+ino: 23776
+read: /proc/2576/fd/3
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23776
+read: /proc/2576/fd/4
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23776
+read: /proc/2576/fd/5
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23776
+read: /proc/2576/fd/6
+socket:[24667]entfd]l]nt-dragand0000000:88BA
+ino: 24667
+read: /proc/2576/fd/7
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 24667
+read: /proc/2576/fd/8
+socket:[23033]entfd]l]nt-dragand0000000:88BA
+ino: 23033
+read: /proc/2576/fd/9
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23033
+read: /proc/2576/fd/1
+/dev/pts/12[eventfd]l]nt-dragand0000000:88BA
+ino: 23033
+read: /proc/2576/fd/1
+/dev/pts/12[eventfd]l]nt-dragand0000000:88BA
+ino: 23033
+read: /proc/2577/fd/.
+/dev/pts/12[eventfd]l]nt-dragand0000000:88BA
+ino: 23033
+read: /proc/2577/fd/.
+/dev/pts/12[eventfd]l]nt-dragand0000000:88BA
+ino: 23033
+read: /proc/2577/fd/0
+/dev/null12[eventfd]l]nt-dragand0000000:88BA
+ino: 23033
+read: /proc/2577/fd/1
+/dev/pts/13[eventfd]l]nt-dragand0000000:88BA
+ino: 23033
+read: /proc/2577/fd/2
+/dev/pts/13[eventfd]l]nt-dragand0000000:88BA
+ino: 23033
+read: /proc/2577/fd/3
+socket:[23001]entfd]l]nt-dragand0000000:88BA
+ino: 23001
+read: /proc/2577/fd/4
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23001
+read: /proc/2577/fd/5
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23001
+read: /proc/2577/fd/6
+socket:[23010]entfd]l]nt-dragand0000000:88BA
+ino: 23010
+read: /proc/2577/fd/7
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23010
+read: /proc/2577/fd/8
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23010
+read: /proc/2577/fd/9
+socket:[23036]entfd]l]nt-dragand0000000:88BA
+ino: 23036
+read: /proc/2577/fd/1
+/dev/pts/1336]entfd]l]nt-dragand0000000:88BA
+ino: 23036
+read: /proc/2584/fd/.
+/dev/pts/1336]entfd]l]nt-dragand0000000:88BA
+ino: 23036
+read: /proc/2584/fd/.
+/dev/pts/1336]entfd]l]nt-dragand0000000:88BA
+ino: 23036
+read: /proc/2584/fd/0
+/dev/null1336]entfd]l]nt-dragand0000000:88BA
+ino: 23036
+read: /proc/2584/fd/1
+/dev/pts/1436]entfd]l]nt-dragand0000000:88BA
+ino: 23036
+read: /proc/2584/fd/2
+/dev/pts/1436]entfd]l]nt-dragand0000000:88BA
+ino: 23036
+read: /proc/2584/fd/3
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23036
+read: /proc/2584/fd/4
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23036
+read: /proc/2584/fd/5
+socket:[23762]entfd]l]nt-dragand0000000:88BA
+ino: 23762
+read: /proc/2584/fd/6
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23762
+read: /proc/2584/fd/7
+socket:[24655]entfd]l]nt-dragand0000000:88BA
+ino: 24655
+read: /proc/2584/fd/8
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 24655
+read: /proc/2584/fd/9
+socket:[24767]entfd]l]nt-dragand0000000:88BA
+ino: 24767
+read: /proc/2584/fd/1
+/dev/pts/1467]entfd]l]nt-dragand0000000:88BA
+ino: 24767
+read: /proc/2584/fd/1
+/dev/pts/1467]entfd]l]nt-dragand0000000:88BA
+ino: 24767
+read: /proc/2584/fd/1
+/dev/pts/1467]entfd]l]nt-dragand0000000:88BA
+ino: 24767
+read: /proc/2584/fd/1
+/dev/pts/1467]entfd]l]nt-dragand0000000:88BA
+ino: 24767
+read: /proc/2584/fd/1
+/dev/pts/1467]entfd]l]nt-dragand0000000:88BA
+ino: 24767
+read: /proc/2584/fd/1
+/dev/pts/1467]entfd]l]nt-dragand0000000:88BA
+ino: 24767
+read: /proc/2585/fd/.
+/dev/pts/1467]entfd]l]nt-dragand0000000:88BA
+ino: 24767
+read: /proc/2585/fd/.
+/dev/pts/1467]entfd]l]nt-dragand0000000:88BA
+ino: 24767
+read: /proc/2585/fd/0
+/dev/null1467]entfd]l]nt-dragand0000000:88BA
+ino: 24767
+read: /proc/2585/fd/1
+/dev/pts/1567]entfd]l]nt-dragand0000000:88BA
+ino: 24767
+read: /proc/2585/fd/2
+/dev/pts/1567]entfd]l]nt-dragand0000000:88BA
+ino: 24767
+read: /proc/2585/fd/3
+/dev/urandom7]entfd]l]nt-dragand0000000:88BA
+ino: 24767
+read: /proc/2585/fd/4
+socket:[23009]entfd]l]nt-dragand0000000:88BA
+ino: 23009
+read: /proc/2585/fd/5
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23009
+read: /proc/2585/fd/6
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23009
+read: /proc/2585/fd/7
+socket:[23011]entfd]l]nt-dragand0000000:88BA
+ino: 23011
+read: /proc/2585/fd/8
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23011
+read: /proc/2585/fd/9
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23011
+read: /proc/2585/fd/1
+/dev/pts/15[eventfd]l]nt-dragand0000000:88BA
+ino: 23011
+read: /proc/2585/fd/1
+/dev/pts/15[eventfd]l]nt-dragand0000000:88BA
+ino: 23011
+read: /proc/2585/fd/1
+/dev/pts/15[eventfd]l]nt-dragand0000000:88BA
+ino: 23011
+read: /proc/2585/fd/1
+/dev/pts/15[eventfd]l]nt-dragand0000000:88BA
+ino: 23011
+read: /proc/2589/fd/.
+/dev/pts/15[eventfd]l]nt-dragand0000000:88BA
+ino: 23011
+read: /proc/2589/fd/.
+/dev/pts/15[eventfd]l]nt-dragand0000000:88BA
+ino: 23011
+read: /proc/2589/fd/0
+/dev/null15[eventfd]l]nt-dragand0000000:88BA
+ino: 23011
+read: /proc/2589/fd/1
+/dev/pts/16[eventfd]l]nt-dragand0000000:88BA
+ino: 23011
+read: /proc/2589/fd/2
+/dev/pts/16[eventfd]l]nt-dragand0000000:88BA
+ino: 23011
+read: /proc/2589/fd/3
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23011
+read: /proc/2589/fd/4
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23011
+read: /proc/2589/fd/5
+socket:[24652]entfd]l]nt-dragand0000000:88BA
+ino: 24652
+read: /proc/2589/fd/6
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 24652
+read: /proc/2589/fd/7
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 24652
+read: /proc/2589/fd/8
+socket:[23766]entfd]l]nt-dragand0000000:88BA
+ino: 23766
+read: /proc/2594/fd/.
+socket:[23766]entfd]l]nt-dragand0000000:88BA
+ino: 23766
+read: /proc/2594/fd/.
+socket:[23766]entfd]l]nt-dragand0000000:88BA
+ino: 23766
+read: /proc/2594/fd/0
+/dev/null3766]entfd]l]nt-dragand0000000:88BA
+ino: 23766
+read: /proc/2594/fd/1
+/dev/pts/7766]entfd]l]nt-dragand0000000:88BA
+ino: 23766
+read: /proc/2594/fd/2
+/dev/pts/7766]entfd]l]nt-dragand0000000:88BA
+ino: 23766
+read: /proc/2594/fd/3
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23766
+read: /proc/2594/fd/4
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23766
+read: /proc/2594/fd/5
+socket:[23773]entfd]l]nt-dragand0000000:88BA
+ino: 23773
+read: /proc/2594/fd/6
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23773
+read: /proc/2594/fd/7
+socket:[23797]entfd]l]nt-dragand0000000:88BA
+ino: 23797
+read: /proc/2595/fd/.
+socket:[23797]entfd]l]nt-dragand0000000:88BA
+ino: 23797
+read: /proc/2595/fd/.
+socket:[23797]entfd]l]nt-dragand0000000:88BA
+ino: 23797
+read: /proc/2595/fd/0
+/dev/null3797]entfd]l]nt-dragand0000000:88BA
+ino: 23797
+read: /proc/2595/fd/1
+socket:[22979]entfd]l]nt-dragand0000000:88BA
+ino: 22979
+read: /proc/2595/fd/2
+socket:[22981]entfd]l]nt-dragand0000000:88BA
+ino: 22981
+read: /proc/2595/fd/3
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22981
+read: /proc/2595/fd/4
+socket:[22994]entfd]l]nt-dragand0000000:88BA
+ino: 22994
+read: /proc/2595/fd/5
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22994
+read: /proc/2595/fd/6
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22994
+read: /proc/2657/fd/.
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22994
+read: /proc/2657/fd/.
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 22994
+read: /proc/2657/fd/0
+/dev/nulle:[eventfd]l]nt-dragand0000000:88BA
+ino: 22994
+read: /proc/2657/fd/1
+socket:[23041]entfd]l]nt-dragand0000000:88BA
+ino: 23041
+read: /proc/2657/fd/2
+socket:[23043]entfd]l]nt-dragand0000000:88BA
+ino: 23043
+read: /proc/2657/fd/3
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23043
+read: /proc/2657/fd/4
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23043
+read: /proc/2657/fd/5
+socket:[23083]entfd]l]nt-dragand0000000:88BA
+ino: 23083
+read: /proc/2657/fd/6
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23083
+read: /proc/2657/fd/7
+anon_inode:[eventfd]l]nt-dragand0000000:88BA
+ino: 23083
+read: /proc/2657/fd/8
+/home/signal/.config/libaccounts0000000:88BA
+ino: 23083
+read: /proc/2657/fd/9
+anon_inode:inotifyig/libaccounts0000000:88BA
+ino: 23083
+read: /proc/2657/fd/1
+socket:[23041]tifyig/libaccounts0000000:88BA
+ino: 23041
+read: /proc/2658/fd/.
+socket:[23041]tifyig/libaccounts0000000:88BA
+ino: 23041
+read: /proc/2658/fd/.
+socket:[23041]tifyig/libaccounts0000000:88BA
+ino: 23041
+read: /proc/2658/fd/0
+/dev/null3041]tifyig/libaccounts0000000:88BA
+ino: 23041
+read: /proc/2658/fd/1
+/dev/null3041]tifyig/libaccounts0000000:88BA
+ino: 23041
+read: /proc/2658/fd/2
+/dev/null3041]tifyig/libaccounts0000000:88BA
+ino: 23041
+read: /proc/2658/fd/3
+pipe:[23084]1]tifyig/libaccounts0000000:88BA
+ino: 23041
+read: /proc/2658/fd/4
+socket:[23136]tifyig/libaccounts0000000:88BA
+ino: 23136
+read: /proc/2658/fd/5
+pipe:[23084]6]tifyig/libaccounts0000000:88BA
+ino: 23136
+read: /proc/2658/fd/6
+anon_inode:inotifyig/libaccounts0000000:88BA
+ino: 23136
+read: /proc/2658/fd/7
+pipe:[23085]notifyig/libaccounts0000000:88BA
+ino: 23136
+read: /proc/2658/fd/8
+pipe:[23085]notifyig/libaccounts0000000:88BA
+ino: 23136
+read: /proc/2658/fd/9
+socket:[23138]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/1
+/dev/null3138]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/1
+/dev/null3138]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/1
+/dev/null3138]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/1
+/dev/null3138]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/1
+/dev/null3138]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/1
+/dev/null3138]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/1
+/dev/null3138]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/1
+/dev/null3138]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/1
+/dev/null3138]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/1
+/dev/null3138]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/2
+/dev/null3138]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/2
+/dev/null3138]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/2
+/dev/null3138]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/2
+/dev/null3138]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/2
+/dev/null3138]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/2
+/dev/null3138]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/2
+/dev/null3138]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/3
+pipe:[23084]8]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/3
+pipe:[23084]8]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/3
+pipe:[23084]8]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/3
+pipe:[23084]8]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/3
+pipe:[23084]8]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/3
+pipe:[23084]8]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/3
+pipe:[23084]8]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/3
+pipe:[23084]8]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/3
+pipe:[23084]8]tifyig/libaccounts0000000:88BA
+ino: 23138
+read: /proc/2658/fd/4
+socket:[23136]tifyig/libaccounts0000000:88BA
+ino: 23136
+read: /proc/2658/fd/4
+socket:[23136]tifyig/libaccounts0000000:88BA
+ino: 23136
+read: /proc/2658/fd/4
+socket:[23136]tifyig/libaccounts0000000:88BA
+ino: 23136
+read: /proc/2701/fd/.
+socket:[23136]tifyig/libaccounts0000000:88BA
+ino: 23136
+read: /proc/2701/fd/.
+socket:[23136]tifyig/libaccounts0000000:88BA
+ino: 23136
+read: /proc/2701/fd/0
+/dev/null3136]tifyig/libaccounts0000000:88BA
+ino: 23136
+read: /proc/2701/fd/1
+/dev/pts/1136]tifyig/libaccounts0000000:88BA
+ino: 23136
+read: /proc/2701/fd/2
+/dev/pts/1136]tifyig/libaccounts0000000:88BA
+ino: 23136
+read: /proc/2701/fd/3
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23136
+read: /proc/2701/fd/4
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23136
+read: /proc/2701/fd/5
+socket:[23124]entfd]/libaccounts0000000:88BA
+ino: 23124
+read: /proc/2701/fd/6
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23124
+read: /proc/2701/fd/7
+socket:[23144]entfd]/libaccounts0000000:88BA
+ino: 23144
+read: /proc/2701/fd/8
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23144
+read: /proc/2701/fd/9
+anon_inode:inotifyd]/libaccounts0000000:88BA
+ino: 23144
+read: /proc/2701/fd/1
+/dev/pts/1:inotifyd]/libaccounts0000000:88BA
+ino: 23144
+read: /proc/2701/fd/1
+/dev/pts/1:inotifyd]/libaccounts0000000:88BA
+ino: 23144
+read: /proc/2701/fd/1
+/dev/pts/1:inotifyd]/libaccounts0000000:88BA
+ino: 23144
+read: /proc/2701/fd/1
+/dev/pts/1:inotifyd]/libaccounts0000000:88BA
+ino: 23144
+read: /proc/2701/fd/1
+/dev/pts/1:inotifyd]/libaccounts0000000:88BA
+ino: 23144
+read: /proc/2701/fd/1
+/dev/pts/1:inotifyd]/libaccounts0000000:88BA
+ino: 23144
+read: /proc/2701/fd/1
+/dev/pts/1:inotifyd]/libaccounts0000000:88BA
+ino: 23144
+read: /proc/2701/fd/1
+/dev/pts/1:inotifyd]/libaccounts0000000:88BA
+ino: 23144
+read: /proc/2701/fd/1
+/dev/pts/1:inotifyd]/libaccounts0000000:88BA
+ino: 23144
+read: /proc/2701/fd/1
+/dev/pts/1:inotifyd]/libaccounts0000000:88BA
+ino: 23144
+read: /proc/2701/fd/2
+/dev/pts/1:inotifyd]/libaccounts0000000:88BA
+ino: 23144
+read: /proc/2701/fd/2
+/dev/pts/1:inotifyd]/libaccounts0000000:88BA
+ino: 23144
+read: /proc/2701/fd/2
+/dev/pts/1:inotifyd]/libaccounts0000000:88BA
+ino: 23144
+read: /proc/2701/fd/2
+/dev/pts/1:inotifyd]/libaccounts0000000:88BA
+ino: 23144
+read: /proc/2701/fd/2
+/dev/pts/1:inotifyd]/libaccounts0000000:88BA
+ino: 23144
+read: /proc/2755/fd/.
+/dev/pts/1:inotifyd]/libaccounts0000000:88BA
+ino: 23144
+read: /proc/2755/fd/.
+/dev/pts/1:inotifyd]/libaccounts0000000:88BA
+ino: 23144
+read: /proc/2755/fd/0
+/dev/null1:inotifyd]/libaccounts0000000:88BA
+ino: 23144
+read: /proc/2755/fd/1
+socket:[24184]tifyd]/libaccounts0000000:88BA
+ino: 24184
+read: /proc/2755/fd/2
+socket:[24185]tifyd]/libaccounts0000000:88BA
+ino: 24185
+read: /proc/2755/fd/3
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 24185
+read: /proc/2755/fd/4
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 24185
+read: /proc/2755/fd/5
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 24185
+read: /proc/2755/fd/6
+/dev/urandomeventfd]/libaccounts0000000:88BA
+ino: 24185
+read: /proc/2755/fd/7
+socket:[25622]entfd]/libaccounts0000000:88BA
+ino: 25622
+read: /proc/2755/fd/8
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25622
+read: /proc/2755/fd/9
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25622
+read: /proc/2763/fd/.
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25622
+read: /proc/2763/fd/.
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25622
+read: /proc/2763/fd/0
+/dev/nulle:[eventfd]/libaccounts0000000:88BA
+ino: 25622
+read: /proc/2763/fd/1
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2763/fd/2
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2763/fd/3
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2763/fd/4
+socket:[24222]entfd]/libaccounts0000000:88BA
+ino: 24222
+read: /proc/2763/fd/5
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 24222
+read: /proc/2763/fd/6
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 24222
+read: /proc/2763/fd/7
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 24222
+read: /proc/2763/fd/8
+socket:[23517]entfd]/libaccounts0000000:88BA
+ino: 23517
+read: /proc/2763/fd/9
+/dev/urandom7]entfd]/libaccounts0000000:88BA
+ino: 23517
+read: /proc/2763/fd/1
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2763/fd/1
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2763/fd/1
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2763/fd/1
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2763/fd/1
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2763/fd/1
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2763/fd/1
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2765/fd/.
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2765/fd/.
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2765/fd/0
+/dev/null3707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2765/fd/1
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2765/fd/2
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2765/fd/3
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2765/fd/4
+socket:[24289]entfd]/libaccounts0000000:88BA
+ino: 24289
+read: /proc/2765/fd/5
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 24289
+read: /proc/2765/fd/6
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 24289
+read: /proc/2765/fd/7
+anon_inode:inotifyd]/libaccounts0000000:88BA
+ino: 24289
+read: /proc/2765/fd/8
+socket:[25254]tifyd]/libaccounts0000000:88BA
+ino: 25254
+read: /proc/2765/fd/9
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25254
+read: /proc/2765/fd/1
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2765/fd/1
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2765/fd/1
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2765/fd/1
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2765/fd/1
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2765/fd/1
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2765/fd/1
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2800/fd/.
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2800/fd/.
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2800/fd/0
+/dev/null3707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2800/fd/1
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2800/fd/2
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2800/fd/3
+socket:[25025]entfd]/libaccounts0000000:88BA
+ino: 25025
+read: /proc/2800/fd/4
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25025
+read: /proc/2800/fd/5
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25025
+read: /proc/2800/fd/6
+socket:[23332]entfd]/libaccounts0000000:88BA
+ino: 23332
+read: /proc/2800/fd/7
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23332
+read: /proc/2800/fd/8
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23332
+read: /proc/2800/fd/9
+socket:[24282]entfd]/libaccounts0000000:88BA
+ino: 24282
+read: /proc/2800/fd/1
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2804/fd/.
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2804/fd/.
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2804/fd/0
+/dev/null3707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2804/fd/1
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2804/fd/2
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2804/fd/3
+/dev/urandom7]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2804/fd/4
+socket:[25046]entfd]/libaccounts0000000:88BA
+ino: 25046
+read: /proc/2804/fd/5
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25046
+read: /proc/2804/fd/6
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25046
+read: /proc/2804/fd/7
+socket:[25047]entfd]/libaccounts0000000:88BA
+ino: 25047
+read: /proc/2804/fd/8
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25047
+read: /proc/2804/fd/9
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25047
+read: /proc/2804/fd/1
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2804/fd/1
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2804/fd/1
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2809/fd/.
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2809/fd/.
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2809/fd/0
+/dev/null3707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2809/fd/1
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2809/fd/2
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2809/fd/3
+socket:[23340]entfd]/libaccounts0000000:88BA
+ino: 23340
+read: /proc/2809/fd/4
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23340
+read: /proc/2809/fd/5
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23340
+read: /proc/2809/fd/6
+socket:[23343]entfd]/libaccounts0000000:88BA
+ino: 23343
+read: /proc/2809/fd/7
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23343
+read: /proc/2809/fd/8
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23343
+read: /proc/2809/fd/9
+socket:[23348]entfd]/libaccounts0000000:88BA
+ino: 23348
+read: /proc/2809/fd/1
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2809/fd/1
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2837/fd/.
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2837/fd/.
+socket:[23707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2837/fd/0
+/dev/null3707]entfd]/libaccounts0000000:88BA
+ino: 23707
+read: /proc/2837/fd/1
+socket:[23357]entfd]/libaccounts0000000:88BA
+ino: 23357
+read: /proc/2837/fd/2
+socket:[23358]entfd]/libaccounts0000000:88BA
+ino: 23358
+read: /proc/2837/fd/3
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23358
+read: /proc/2837/fd/4
+socket:[25058]entfd]/libaccounts0000000:88BA
+ino: 25058
+read: /proc/2837/fd/5
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25058
+read: /proc/2837/fd/6
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25058
+read: /proc/2837/fd/7
+socket:[25186]entfd]/libaccounts0000000:88BA
+ino: 25186
+read: /proc/2837/fd/8
+socket:[23437]entfd]/libaccounts0000000:88BA
+ino: 23437
+read: /proc/2837/fd/9
+anon_inode:inotifyd]/libaccounts0000000:88BA
+ino: 23437
+read: /proc/2837/fd/1
+socket:[23357]tifyd]/libaccounts0000000:88BA
+ino: 23357
+read: /proc/2917/fd/.
+socket:[23357]tifyd]/libaccounts0000000:88BA
+ino: 23357
+read: /proc/2917/fd/.
+socket:[23357]tifyd]/libaccounts0000000:88BA
+ino: 23357
+read: /proc/2917/fd/0
+/dev/null3357]tifyd]/libaccounts0000000:88BA
+ino: 23357
+read: /proc/2917/fd/1
+socket:[23444]tifyd]/libaccounts0000000:88BA
+ino: 23444
+read: /proc/2917/fd/2
+socket:[23445]tifyd]/libaccounts0000000:88BA
+ino: 23445
+read: /proc/2917/fd/3
+/dev/urandom5]tifyd]/libaccounts0000000:88BA
+ino: 23445
+read: /proc/2917/fd/4
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23445
+read: /proc/2917/fd/5
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23445
+read: /proc/2917/fd/6
+anon_inode:inotifyd]/libaccounts0000000:88BA
+ino: 23445
+read: /proc/2917/fd/7
+socket:[25204]tifyd]/libaccounts0000000:88BA
+ino: 25204
+read: /proc/2917/fd/8
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25204
+read: /proc/2936/fd/.
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25204
+read: /proc/2936/fd/.
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25204
+read: /proc/2936/fd/0
+/dev/nulle:[eventfd]/libaccounts0000000:88BA
+ino: 25204
+read: /proc/2936/fd/1
+socket:[25211]entfd]/libaccounts0000000:88BA
+ino: 25211
+read: /proc/2936/fd/2
+socket:[25213]entfd]/libaccounts0000000:88BA
+ino: 25213
+read: /proc/2936/fd/3
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25213
+read: /proc/2936/fd/4
+socket:[25624]entfd]/libaccounts0000000:88BA
+ino: 25624
+read: /proc/2936/fd/5
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25624
+read: /proc/2936/fd/6
+socket:[25625]entfd]/libaccounts0000000:88BA
+ino: 25625
+read: /proc/2936/fd/7
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25625
+read: /proc/2944/fd/.
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25625
+read: /proc/2944/fd/.
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25625
+read: /proc/2944/fd/0
+/dev/nulle:[eventfd]/libaccounts0000000:88BA
+ino: 25625
+read: /proc/2944/fd/1
+socket:[25234]entfd]/libaccounts0000000:88BA
+ino: 25234
+read: /proc/2944/fd/2
+socket:[25236]entfd]/libaccounts0000000:88BA
+ino: 25236
+read: /proc/2944/fd/3
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25236
+read: /proc/2944/fd/4
+socket:[25627]entfd]/libaccounts0000000:88BA
+ino: 25627
+read: /proc/2944/fd/5
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25627
+read: /proc/2944/fd/6
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25627
+read: /proc/2950/fd/.
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25627
+read: /proc/2950/fd/.
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25627
+read: /proc/2950/fd/0
+/dev/nulle:[eventfd]/libaccounts0000000:88BA
+ino: 25627
+read: /proc/2950/fd/1
+socket:[24184]entfd]/libaccounts0000000:88BA
+ino: 24184
+read: /proc/2950/fd/2
+socket:[24185]entfd]/libaccounts0000000:88BA
+ino: 24185
+read: /proc/2950/fd/3
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 24185
+read: /proc/2950/fd/4
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 24185
+read: /proc/2950/fd/5
+socket:[25646]entfd]/libaccounts0000000:88BA
+ino: 25646
+read: /proc/2950/fd/6
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25646
+read: /proc/2950/fd/7
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25646
+read: /proc/2950/fd/8
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25646
+read: /proc/2950/fd/9
+socket:[25649]entfd]/libaccounts0000000:88BA
+ino: 25649
+read: /proc/2950/fd/1
+socket:[24184]entfd]/libaccounts0000000:88BA
+ino: 24184
+read: /proc/2950/fd/1
+socket:[24184]entfd]/libaccounts0000000:88BA
+ino: 24184
+read: /proc/2952/fd/.
+socket:[24184]entfd]/libaccounts0000000:88BA
+ino: 24184
+read: /proc/2952/fd/.
+socket:[24184]entfd]/libaccounts0000000:88BA
+ino: 24184
+read: /proc/2952/fd/0
+/dev/null4184]entfd]/libaccounts0000000:88BA
+ino: 24184
+read: /proc/2952/fd/1
+socket:[25244]entfd]/libaccounts0000000:88BA
+ino: 25244
+read: /proc/2952/fd/2
+socket:[25246]entfd]/libaccounts0000000:88BA
+ino: 25246
+read: /proc/2952/fd/3
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25246
+read: /proc/2952/fd/4
+socket:[25249]entfd]/libaccounts0000000:88BA
+ino: 25249
+read: /proc/2952/fd/5
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25249
+read: /proc/2952/fd/6
+socket:[25645]entfd]/libaccounts0000000:88BA
+ino: 25645
+read: /proc/2952/fd/7
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25645
+read: /proc/2966/fd/.
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25645
+read: /proc/2966/fd/.
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25645
+read: /proc/2966/fd/0
+/dev/nulle:[eventfd]/libaccounts0000000:88BA
+ino: 25645
+read: /proc/2966/fd/1
+socket:[23459]entfd]/libaccounts0000000:88BA
+ino: 23459
+read: /proc/2966/fd/2
+socket:[23460]entfd]/libaccounts0000000:88BA
+ino: 23460
+read: /proc/2966/fd/3
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23460
+read: /proc/2966/fd/4
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23460
+read: /proc/2966/fd/5
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23460
+read: /proc/2966/fd/6
+/dev/urandomeventfd]/libaccounts0000000:88BA
+ino: 23460
+read: /proc/2966/fd/7
+socket:[23467]entfd]/libaccounts0000000:88BA
+ino: 23467
+read: /proc/2966/fd/8
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23467
+read: /proc/2966/fd/9
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23467
+read: /proc/2968/fd/.
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23467
+read: /proc/2968/fd/.
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23467
+read: /proc/2968/fd/0
+/dev/nulle:[eventfd]/libaccounts0000000:88BA
+ino: 23467
+read: /proc/2968/fd/1
+socket:[24184]entfd]/libaccounts0000000:88BA
+ino: 24184
+read: /proc/2968/fd/2
+socket:[24185]entfd]/libaccounts0000000:88BA
+ino: 24185
+read: /proc/2968/fd/3
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 24185
+read: /proc/2968/fd/4
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 24185
+read: /proc/2968/fd/5
+socket:[23474]entfd]/libaccounts0000000:88BA
+ino: 23474
+read: /proc/2968/fd/6
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23474
+read: /proc/2968/fd/7
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23474
+read: /proc/2968/fd/8
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23474
+read: /proc/2968/fd/9
+socket:[23477]entfd]/libaccounts0000000:88BA
+ino: 23477
+read: /proc/2968/fd/1
+socket:[24184]entfd]/libaccounts0000000:88BA
+ino: 24184
+read: /proc/2976/fd/.
+socket:[24184]entfd]/libaccounts0000000:88BA
+ino: 24184
+read: /proc/2976/fd/.
+socket:[24184]entfd]/libaccounts0000000:88BA
+ino: 24184
+read: /proc/2976/fd/0
+/dev/null4184]entfd]/libaccounts0000000:88BA
+ino: 24184
+read: /proc/2976/fd/1
+socket:[23459]entfd]/libaccounts0000000:88BA
+ino: 23459
+read: /proc/2976/fd/2
+socket:[23460]entfd]/libaccounts0000000:88BA
+ino: 23460
+read: /proc/2976/fd/3
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23460
+read: /proc/2976/fd/4
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23460
+read: /proc/2976/fd/5
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 23460
+read: /proc/2976/fd/6
+socket:[25303]entfd]/libaccounts0000000:88BA
+ino: 25303
+read: /proc/2976/fd/7
+socket:[25304]entfd]/libaccounts0000000:88BA
+ino: 25304
+read: /proc/2976/fd/8
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25304
+read: /proc/2976/fd/9
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25304
+read: /proc/2976/fd/1
+socket:[23459]entfd]/libaccounts0000000:88BA
+ino: 23459
+read: /proc/2976/fd/1
+socket:[23459]entfd]/libaccounts0000000:88BA
+ino: 23459
+read: /proc/3012/fd/.
+socket:[23459]entfd]/libaccounts0000000:88BA
+ino: 23459
+read: /proc/3012/fd/.
+socket:[23459]entfd]/libaccounts0000000:88BA
+ino: 23459
+read: /proc/3012/fd/0
+/dev/null3459]entfd]/libaccounts0000000:88BA
+ino: 23459
+read: /proc/3012/fd/1
+socket:[22516]entfd]/libaccounts0000000:88BA
+ino: 22516
+read: /proc/3012/fd/2
+socket:[22517]entfd]/libaccounts0000000:88BA
+ino: 22517
+read: /proc/3012/fd/3
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 22517
+read: /proc/3012/fd/4
+socket:[25675]entfd]/libaccounts0000000:88BA
+ino: 25675
+read: /proc/3012/fd/5
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25675
+read: /proc/3012/fd/6
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25675
+read: /proc/3012/fd/7
+anon_inode:inotifyd]/libaccounts0000000:88BA
+ino: 25675
+read: /proc/3012/fd/8
+/proc/3012/mountsyd]/libaccounts0000000:88BA
+ino: 25675
+read: /proc/3012/fd/1
+socket:[22516]ntsyd]/libaccounts0000000:88BA
+ino: 22516
+read: /proc/3012/fd/1
+socket:[22516]ntsyd]/libaccounts0000000:88BA
+ino: 22516
+read: /proc/3012/fd/1
+socket:[22516]ntsyd]/libaccounts0000000:88BA
+ino: 22516
+read: /proc/3012/fd/1
+socket:[22516]ntsyd]/libaccounts0000000:88BA
+ino: 22516
+read: /proc/3022/fd/.
+socket:[22516]ntsyd]/libaccounts0000000:88BA
+ino: 22516
+read: /proc/3022/fd/.
+socket:[22516]ntsyd]/libaccounts0000000:88BA
+ino: 22516
+read: /proc/3022/fd/0
+/dev/null2516]ntsyd]/libaccounts0000000:88BA
+ino: 22516
+read: /proc/3022/fd/1
+socket:[25723]ntsyd]/libaccounts0000000:88BA
+ino: 25723
+read: /proc/3022/fd/2
+socket:[25724]ntsyd]/libaccounts0000000:88BA
+ino: 25724
+read: /proc/3022/fd/3
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25724
+read: /proc/3022/fd/4
+socket:[25727]entfd]/libaccounts0000000:88BA
+ino: 25727
+read: /proc/3022/fd/5
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25727
+read: /proc/3022/fd/6
+anon_inode:[eventfd]/libaccounts0000000:88BA
+ino: 25727
+read: /proc/3022/fd/7
+/home/signal/.local/share/gvfs-m0000000:88BA
+ino: 25727
+read: /proc/3022/fd/8
+/home/signal/.local/share/gvfs-m0000000:88BA
+ino: 25727
+read: /proc/3078/fd/.
+/home/signal/.local/share/gvfs-m0000000:88BA
+ino: 25727
+read: /proc/3078/fd/.
+/home/signal/.local/share/gvfs-m0000000:88BA
+ino: 25727
+read: /proc/3078/fd/0
+/dev/nullnal/.local/share/gvfs-m0000000:88BA
+ino: 25727
+read: /proc/3078/fd/1
+socket:[23707]local/share/gvfs-m0000000:88BA
+ino: 23707
+read: /proc/3078/fd/2
+socket:[23707]local/share/gvfs-m0000000:88BA
+ino: 23707
+read: /proc/3078/fd/3
+anon_inode:[eventfd]share/gvfs-m0000000:88BA
+ino: 23707
+read: /proc/3078/fd/4
+anon_inode:[eventfd]share/gvfs-m0000000:88BA
+ino: 23707
+read: /proc/3078/fd/5
+socket:[25792]entfd]share/gvfs-m0000000:88BA
+ino: 25792
+read: /proc/3078/fd/6
+anon_inode:[eventfd]share/gvfs-m0000000:88BA
+ino: 25792
+read: /proc/3078/fd/7
+/home/signal/.local/share/zeitge0000000:88BA
+ino: 25792
+read: /proc/3078/fd/8
+/home/signal/.local/share/zeitge0000000:88BA
+ino: 25792
+read: /proc/3078/fd/9
+/home/signal/.local/share/zeitge0000000:88BA
+ino: 25792
+read: /proc/3078/fd/1
+socket:[23707]local/share/zeitge0000000:88BA
+ino: 23707
+read: /proc/3085/fd/.
+socket:[23707]local/share/zeitge0000000:88BA
+ino: 23707
+read: /proc/3085/fd/.
+socket:[23707]local/share/zeitge0000000:88BA
+ino: 23707
+read: /proc/3085/fd/0
+/dev/null3707]local/share/zeitge0000000:88BA
+ino: 23707
+read: /proc/3085/fd/1
+socket:[25381]local/share/zeitge0000000:88BA
+ino: 25381
+read: /proc/3085/fd/2
+socket:[25383]local/share/zeitge0000000:88BA
+ino: 25383
+read: /proc/3089/fd/.
+socket:[25383]local/share/zeitge0000000:88BA
+ino: 25383
+read: /proc/3089/fd/.
+socket:[25383]local/share/zeitge0000000:88BA
+ino: 25383
+read: /proc/3089/fd/0
+/dev/null5383]local/share/zeitge0000000:88BA
+ino: 25383
+read: /proc/3089/fd/1
+socket:[25381]local/share/zeitge0000000:88BA
+ino: 25381
+read: /proc/3089/fd/2
+socket:[25383]local/share/zeitge0000000:88BA
+ino: 25383
+read: /proc/3089/fd/3
+anon_inode:[eventfd]share/zeitge0000000:88BA
+ino: 25383
+read: /proc/3089/fd/4
+socket:[26628]entfd]share/zeitge0000000:88BA
+ino: 26628
+read: /proc/3089/fd/5
+anon_inode:[eventfd]share/zeitge0000000:88BA
+ino: 26628
+read: /proc/3089/fd/6
+anon_inode:[eventfd]share/zeitge0000000:88BA
+ino: 26628
+read: /proc/3089/fd/7
+/home/signal/.local/share/zeitge0000000:88BA
+ino: 26628
+read: /proc/3089/fd/8
+/home/signal/.local/share/zeitge0000000:88BA
+ino: 26628
+read: /proc/3089/fd/9
+/home/signal/.local/share/zeitge0000000:88BA
+ino: 26628
+read: /proc/3089/fd/1
+socket:[25381]local/share/zeitge0000000:88BA
+ino: 25381
+read: /proc/3096/fd/.
+socket:[25381]local/share/zeitge0000000:88BA
+ino: 25381
+read: /proc/3096/fd/.
+socket:[25381]local/share/zeitge0000000:88BA
+ino: 25381
+read: /proc/3096/fd/0
+/dev/null5381]local/share/zeitge0000000:88BA
+ino: 25381
+read: /proc/3096/fd/1
+socket:[25393]local/share/zeitge0000000:88BA
+ino: 25393
+read: /proc/3096/fd/2
+socket:[25395]local/share/zeitge0000000:88BA
+ino: 25395
+read: /proc/3096/fd/3
+anon_inode:[eventfd]share/zeitge0000000:88BA
+ino: 25395
+read: /proc/3096/fd/4
+socket:[25397]entfd]share/zeitge0000000:88BA
+ino: 25397
+read: /proc/3096/fd/5
+anon_inode:[eventfd]share/zeitge0000000:88BA
+ino: 25397
+read: /proc/3096/fd/6
+anon_inode:[eventfd]share/zeitge0000000:88BA
+ino: 25397
+read: /proc/3096/fd/7
+/home/signal/.local/share/zeitge0000000:88BA
+ino: 25397
+read: /proc/3096/fd/8
+/home/signal/.local/share/zeitge0000000:88BA
+ino: 25397
+read: /proc/3096/fd/9
+/home/signal/.local/share/zeitge0000000:88BA
+ino: 25397
+read: /proc/3096/fd/1
+socket:[25393]local/share/zeitge0000000:88BA
+ino: 25393
+read: /proc/3096/fd/1
+socket:[25393]local/share/zeitge0000000:88BA
+ino: 25393
+read: /proc/3096/fd/1
+socket:[25393]local/share/zeitge0000000:88BA
+ino: 25393
+read: /proc/3096/fd/1
+socket:[25393]local/share/zeitge0000000:88BA
+ino: 25393
+read: /proc/3096/fd/1
+socket:[25393]local/share/zeitge0000000:88BA
+ino: 25393
+read: /proc/3096/fd/1
+socket:[25393]local/share/zeitge0000000:88BA
+ino: 25393
+read: /proc/3161/fd/.
+socket:[25393]local/share/zeitge0000000:88BA
+ino: 25393
+read: /proc/3161/fd/.
+socket:[25393]local/share/zeitge0000000:88BA
+ino: 25393
+read: /proc/3161/fd/0
+/dev/null5393]local/share/zeitge0000000:88BA
+ino: 25393
+read: /proc/3161/fd/1
+socket:[23707]local/share/zeitge0000000:88BA
+ino: 23707
+read: /proc/3161/fd/2
+socket:[23707]local/share/zeitge0000000:88BA
+ino: 23707
+read: /proc/3161/fd/3
+socket:[26668]local/share/zeitge0000000:88BA
+ino: 26668
+read: /proc/3161/fd/4
+anon_inode:[eventfd]share/zeitge0000000:88BA
+ino: 26668
+read: /proc/3161/fd/5
+anon_inode:[eventfd]share/zeitge0000000:88BA
+ino: 26668
+read: /proc/3161/fd/6
+socket:[26669]entfd]share/zeitge0000000:88BA
+ino: 26669
+read: /proc/3161/fd/7
+anon_inode:[eventfd]share/zeitge0000000:88BA
+ino: 26669
+read: /proc/3161/fd/8
+anon_inode:[eventfd]share/zeitge0000000:88BA
+ino: 26669
+read: /proc/3161/fd/9
+socket:[26672]entfd]share/zeitge0000000:88BA
+ino: 26672
+read: /proc/3161/fd/1
+socket:[23707]entfd]share/zeitge0000000:88BA
+ino: 23707
+read: /proc/3161/fd/1
+socket:[23707]entfd]share/zeitge0000000:88BA
+ino: 23707
+read: /proc/3196/fd/.
+socket:[23707]entfd]share/zeitge0000000:88BA
+ino: 23707
+read: /proc/3196/fd/.
+socket:[23707]entfd]share/zeitge0000000:88BA
+ino: 23707
+read: /proc/3196/fd/0
+/dev/null3707]entfd]share/zeitge0000000:88BA
+ino: 23707
+read: /proc/3196/fd/1
+socket:[26715]entfd]share/zeitge0000000:88BA
+ino: 26715
+read: /proc/3196/fd/2
+socket:[26717]entfd]share/zeitge0000000:88BA
+ino: 26717
+read: /proc/3196/fd/3
+/dev/urandom7]entfd]share/zeitge0000000:88BA
+ino: 26717
+read: /proc/3196/fd/4
+socket:[26721]entfd]share/zeitge0000000:88BA
+ino: 26721
+read: /proc/3196/fd/5
+anon_inode:[eventfd]share/zeitge0000000:88BA
+ino: 26721
+read: /proc/3196/fd/6
+anon_inode:[eventfd]share/zeitge0000000:88BA
+ino: 26721
+read: /proc/3196/fd/7
+socket:[25526]entfd]share/zeitge0000000:88BA
+ino: 25526
+read: /proc/3196/fd/8
+anon_inode:[eventfd]share/zeitge0000000:88BA
+ino: 25526
+read: /proc/3196/fd/9
+anon_inode:[eventfd]share/zeitge0000000:88BA
+ino: 25526
+read: /proc/3196/fd/1
+socket:[26715]entfd]share/zeitge0000000:88BA
+ino: 26715
+read: /proc/3196/fd/1
+socket:[26715]entfd]share/zeitge0000000:88BA
+ino: 26715
+read: /proc/3196/fd/1
+socket:[26715]entfd]share/zeitge0000000:88BA
+ino: 26715
+read: /proc/3196/fd/1
+socket:[26715]entfd]share/zeitge0000000:88BA
+ino: 26715
+read: /proc/3196/fd/1
+socket:[26715]entfd]share/zeitge0000000:88BA
+ino: 26715
+read: /proc/3196/fd/1
+socket:[26715]entfd]share/zeitge0000000:88BA
+ino: 26715
+read: /proc/3196/fd/1
+socket:[26715]entfd]share/zeitge0000000:88BA
+ino: 26715
+read: /proc/3203/fd/.
+socket:[26715]entfd]share/zeitge0000000:88BA
+ino: 26715
+read: /proc/3203/fd/.
+socket:[26715]entfd]share/zeitge0000000:88BA
+ino: 26715
+read: /proc/3203/fd/0
+/dev/pts/4715]entfd]share/zeitge0000000:88BA
+ino: 26715
+read: /proc/3203/fd/1
+/dev/pts/4715]entfd]share/zeitge0000000:88BA
+ino: 26715
+read: /proc/3203/fd/2
+/dev/pts/4715]entfd]share/zeitge0000000:88BA
+ino: 26715
+read: /proc/3203/fd/2
+/dev/pts/4715]entfd]share/zeitge0000000:88BA
+ino: 26715
+read: /proc/3216/fd/.
+/dev/pts/4715]entfd]share/zeitge0000000:88BA
+ino: 26715
+read: /proc/3216/fd/.
+/dev/pts/4715]entfd]share/zeitge0000000:88BA
+ino: 26715
+read: /proc/3216/fd/0
+/dev/null4715]entfd]share/zeitge0000000:88BA
+ino: 26715
+read: /proc/3216/fd/1
+socket:[23707]entfd]share/zeitge0000000:88BA
+ino: 23707
+read: /proc/3216/fd/2
+socket:[23707]entfd]share/zeitge0000000:88BA
+ino: 23707
+read: /proc/3216/fd/3
+anon_inode:[eventfd]share/zeitge0000000:88BA
+ino: 23707
+read: /proc/3216/fd/4
+anon_inode:[eventfd]share/zeitge0000000:88BA
+ino: 23707
+read: /proc/3216/fd/5
+socket:[28655]entfd]share/zeitge0000000:88BA
+ino: 28655
+read: /proc/3216/fd/6
+anon_inode:[eventfd]share/zeitge0000000:88BA
+ino: 28655
+read: /proc/3216/fd/7
+anon_inode:[eventfd]share/zeitge0000000:88BA
+ino: 28655
+read: /proc/3216/fd/9
+socket:[28656]entfd]share/zeitge0000000:88BA
+ino: 28656
+read: /proc/3216/fd/1
+socket:[23707]entfd]share/zeitge0000000:88BA
+ino: 23707
+read: /proc/3538/fd/.
+socket:[23707]entfd]share/zeitge0000000:88BA
+ino: 23707
+read: /proc/3538/fd/.
+socket:[23707]entfd]share/zeitge0000000:88BA
+ino: 23707
+read: /proc/3538/fd/0
+/dev/pts/4707]entfd]share/zeitge0000000:88BA
+ino: 23707
+read: /proc/3538/fd/1
+/dev/pts/4707]entfd]share/zeitge0000000:88BA
+ino: 23707
+read: /proc/3538/fd/2
+/dev/pts/4707]entfd]share/zeitge0000000:88BA
+ino: 23707
+read: /proc/3625/fd/.
+/dev/pts/4707]entfd]share/zeitge0000000:88BA
+ino: 23707
+read: /proc/3625/fd/.
+/dev/pts/4707]entfd]share/zeitge0000000:88BA
+ino: 23707
+read: /proc/3625/fd/0
+/dev/pts/4707]entfd]share/zeitge0000000:88BA
+ino: 23707
+read: /proc/3625/fd/1
+/dev/pts/4707]entfd]share/zeitge0000000:88BA
+ino: 23707
+read: /proc/3625/fd/2
+/dev/pts/4707]entfd]share/zeitge0000000:88BA
+ino: 23707
+read: /proc/4512/fd/.
+/dev/pts/4707]entfd]share/zeitge0000000:88BA
+ino: 23707
+read: /proc/4512/fd/.
+/dev/pts/4707]entfd]share/zeitge0000000:88BA
+ino: 23707
+read: /proc/4512/fd/0
+/dev/pts/4707]entfd]share/zeitge0000000:88BA
+ino: 23707
+read: /proc/4512/fd/1
+/home/signal/UNIX_programming/gr0000000:88BA
+ino: 23707
+read: /proc/4512/fd/2
+/home/signal/UNIX_programming/gr0000000:88BA
+ino: 23707
+read: /proc/4512/fd/3
+/proc/4512/net/tcpprogramming/gr0000000:88BA
+ino: 23707
+read: /proc/4512/fd/4
+/proc/4512/net/udpprogramming/gr0000000:88BA
+ino: 23707
+read: /proc/4512/fd/5
+/proc/4512/net/tcp6rogramming/gr0000000:88BA
+ino: 23707
+read: /proc/4512/fd/6
+/proc/4512/net/udp6rogramming/gr0000000:88BA
+ino: 23707
+read: /proc/4512/fd/7
+/proc/4512/net/udp6rogramming/gr0000000:88BA
+ino: 23707
+read: /proc/4512/fd/8
+/proc/4512/fdt/udp6rogramming/gr0000000:88BA
+ino: 23707
+
+List of TCP connections:
+Protocol  	Local Address       	Foreign Address     	PID            
+tcp			127.0.0.1:43885		0.0.0.0:0		19227
+tcp			127.0.1.1:53		0.0.0.0:0		17334
+tcp			127.0.0.1:631		0.0.0.0:0		17805
+tcp6			:::80		:::0		20700
+tcp6			::1:631		:::0		17804
+
+List of UDP connections:
+Protocol  	Local Address       	Foreign Address     	PID            
+udp            		0.0.0.0:631            		0.0.0.0:0              		17858
+udp            		0.0.0.0:5353           		0.0.0.0:0              		16837
+udp            		0.0.0.0:40698          		0.0.0.0:0              		16839
+udp            		127.0.1.1:53             		0.0.0.0:0              		17333
+udp            		0.0.0.0:68             		0.0.0.0:0              		29791
+udp            		0.0.0.0:45438          		0.0.0.0:0              		18213
+udp6           		:::5353           		:::0              		16838
+udp6           		:::35002          		:::0              		16840
+0p2: 45648
+11
+12
+13
+14
+15
+16
+18
+19
+20
+21
+22
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+48
+49
+50
+92
+93
+94
+95
+96
+97
+103
+112
+129
+171
+172
+173
+174
+177
+197
+200
+201
+231
+245
+269
+428
+694
+714
+719
+734
+736
+744
+774
+775
+776
+816
+819
+907
+911
+912
+914
+915
+916
+929
+939
+976
+1024
+1173
+1443
+1444
+1521
+1524
+1525
+1718
+1755
+1817
+1819
+2090
+2096
+2107
+2129
+2144
+2146
+2154
+2156
+2161
+2163
+2168
+2170
+2288
+2295
+2307
+2330
+2340
+2343
+2346
+2360
+2362
+2371
+2376
+2381
+2386
+2391
+2422
+2435
+2441
+2470
+2475
+2485
+2487
+2498
+2507
+2529
+2571
+2573
+2575
+2576
+2577
+2584
+2585
+2589
+2594
+2595
+2657
+2658
+2661
+2682
+2701
+2755
+2763
+2765
+2800
+2804
+2809
+2837
+2860
+2908
+2917
+2936
+2944
+2950
+2952
+2966
+2968
+2976
+3012
+3022
+3078
+3085
+3089
+3096
+3161
+3196
+3203
+3216
+3266
+3267
+3328
+3538
+3557
+3625
+3768
+4220
+4398
+4450
+4512

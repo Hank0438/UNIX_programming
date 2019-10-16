@@ -1,3 +1,0 @@
-#!/bin/bash
-rm -f ${PWD}/net
-gcc ${PWD}/netstat.c -o ${PWD}/net

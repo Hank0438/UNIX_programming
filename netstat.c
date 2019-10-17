@@ -10,6 +10,8 @@
 #include <dirent.h>
 #include <inttypes.h>
 #include <getopt.h>
+#include <regex.h>
+
 
 #define  TEMP_BUFFER_SIZE 0x10000
 
@@ -84,18 +86,39 @@ void trans_ipv6_address(char *hex){
 }
 
 int filter_print(char *source, FilterList *filter_list, char *type, int first){
-	int printable = -1;
+	int printable = 0;
 	if(filter_list->num != 0){
 		FilterStr *ptr = filter_list->head;
 		for(int i=0; i<filter_list->num; i++){
-			char *loc = strstr(source, ptr->str);
-			if(loc != NULL) {
-        			printable ++;
-    			}
-		}
-	}else{printable = 0;}
+			regex_t preg;
+        		regmatch_t pmatch[10];
+        		size_t nmatch = 10;
+        		int cflags = REG_EXTENDED | REG_ICASE;
 
-	if((printable == 0) || ((printable > 0) && (printable == filter_list->num) )){
+			//printf("filter_str: %s\n", ptr->str);
+			if( regcomp(&preg, ptr->str, cflags) == 0 ){
+				int rc = regexec(&preg, source, nmatch, pmatch, 0);
+        			regfree(&preg);
+				if(rc == 0){
+					printable++;
+					/*
+					int i, len;	
+					char buf[256];
+					for (i = 0; i < nmatch && pmatch[i].rm_so >= 0; ++i) {
+           					len = pmatch[i].rm_eo - pmatch[i].rm_so;
+            					strncpy(buf, source + pmatch[i].rm_so, len);
+            					buf[len] = '\0';
+            					printf("sub pattern %d is %s\n", i, buf);
+        				}
+					*/
+				}
+			}
+			ptr = ptr->next;
+		}
+	}
+	
+	//printf("%d\n", printable);
+	if(printable == filter_list->num){
 		if(first == 0){
 			if (strcmp(type, "tcp") == 0)
                                 fprintf(stderr, "\nList of TCP connections:\n");
@@ -225,7 +248,7 @@ char *list_dir(int inode, char *pid_buffer){
                         			if(fp){
                                 			//fprintf(stderr, "pid: %s\n", pid);
                                 			fgets( line_buffer, TEMP_BUFFER_SIZE-1, fp );
-                                			sscanf(line_buffer, "Name:\t%s", &pname);
+                                			sscanf(line_buffer, "Name:\t%s", pname);
                                 			//fprintf(stderr, "pname: %s\n", pname);
                                 			fclose(fp);
                         			}
@@ -268,7 +291,7 @@ char *list_dir(int inode, char *pid_buffer){
     	}
     	closedir(mydir);
 	if (found_pid == 0){
-		sprintf(pid_buffer, "-", pid, pname);
+		sprintf(pid_buffer, "-");
 	}
 }
 
@@ -434,6 +457,8 @@ int main(int argc, char *argv[]) {
 	int print_search = NULL;
 
 	FilterList *filter_list = malloc(sizeof(filter_list));
+
+
 	int opt;
    	int digit_optind = 0;
    	int option_index = 0;
@@ -467,7 +492,8 @@ int main(int argc, char *argv[]) {
 	if (optind < argc){
       		while (optind < argc){
 			FilterStr *filter_str = malloc(sizeof(FilterStr));
-        		strcpy(filter_str, argv[optind++]);
+        		strcpy(filter_str->str, argv[optind++]);
+			//printf("%s\n", filter_str->str);
 			filter_str->next = NULL;
 			if (filter_list->num==0){
 				filter_list->head = filter_str;
@@ -479,7 +505,7 @@ int main(int argc, char *argv[]) {
 			filter_list->num++;
       		}
     	}
-	
+	//printf("filter_num: %d\n", filter_list->num);	
 
 	print_mode = print_tcp*1 + print_udp*2; 
 	if (print_mode == 0)
